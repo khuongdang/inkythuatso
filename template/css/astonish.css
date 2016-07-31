@@ -82,7 +82,6 @@ background-attachment: fixed;
 }
 .fullwidth-section {
 position: relative;
-padding-top:100px;
 padding-bottom:100px;
 }
 .fullwidth-section.half-padding {
