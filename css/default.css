@@ -1,0 +1,25 @@
+.breadcrumbs {
+    overflow: hidden;
+    padding: 10px 0 6px;
+    border-bottom: solid 1px #eee;
+    background: url(../img/breadcrumbs.png) repeat;
+    margin-bottom:12px;
+}
+
+.breadcrumb>li {
+    display: inline-block;
+}
+
+.breadcrumb a {
+    color: #777;
+}
+.pull-right {
+    float: right!important;
+}
+
+.breadcrumb {
+    top: 80px;
+    padding-right: 0;
+    background: none;
+    position: relative;
+}
