@@ -59,7 +59,7 @@ RewriteRule .* index.php [F]
 # Update Your Joomla! Directory (just / for root).
 ##
 
-# RewriteBase /
+ RewriteBase /
 
 ## Begin - Joomla! core SEF Section.
 #
@@ -74,5 +74,6 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 # internally rewrite the request to the index.php script
 RewriteRule .* index.php [L]
+
 #
 ## End - Joomla! core SEF Section.
