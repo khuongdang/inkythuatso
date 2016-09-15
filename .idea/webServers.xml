@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="600a0039-d6b6-4de0-92ff-27fba94f94c7" name="inkythuatso" url="http://125.212.241.82">
+        <fileTransfer host="125.212.241.82" port="22" rootFolder="/home/inkythuatso/web/inkythuatso.top/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

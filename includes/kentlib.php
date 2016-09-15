@@ -9,14 +9,22 @@ defined('_JEXEC') or die;
 final class JKentlib {
     const INTRO_ID = 1;
 
-    public static function getMainMenu($menu_id = 0)
+    public static function getCategoryFromParent($cat_id = 0)
     {
-        if (isset($menu_id) && $menu_id != 0) {
+        if (isset($cat_id) && $cat_id != 0) {
             $db = JFactory::getDbo();
-            $query = "SELECT * FROM #__categories WHERE parent_id = $menu_id";
+            $query = "SELECT * FROM #__categories WHERE parent_id = $cat_id";
             $db->setQuery($query);
             return $db->loadObjectList();
         }
+    }
+
+    public static function getMainMenu()
+    {
+        $app = JFactory::getApplication();
+        $menu = $app->getMenu();
+        $items          = $menu->getItems('menutype', 'mainmenu');
+        return $items;
     }
 
     public static function getArticleContent($article_id)

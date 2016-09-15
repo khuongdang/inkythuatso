@@ -20,6 +20,8 @@ $intro_link = JRoute::_(ContentHelperRoute::getArticleRoute(JKentlib::INTRO_ID, 
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/Styles.css" rel="stylesheet">
     <link href="css/breadcrumb.css" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
     <script type="text/javascript" src="js/jquery.min.js"></script>
     <script type="text/javascript" src="js/jquery.tools.min.js"></script>
     <script type="text/javascript" src="js/jquery.elastislide.js"></script>
@@ -81,9 +83,9 @@ $intro_link = JRoute::_(ContentHelperRoute::getArticleRoute(JKentlib::INTRO_ID, 
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="logo col-lg-3">
                                 <a href="<?php JUri::base();?>">
-                                    <img class="img-responsive" alt="Thiết kế mỹ thuật Cao Nguyên Xanh"
+                                    <img class="img-responsive" alt="Thiết kế mỹ thuật Tùng Khoa"
                                          src="images/logo.png"
-                                         title="Thiết kế mỹ thuật Cao Nguyên Xanh"></a>
+                                         title="Thiết kế mỹ thuật Tùng Khoa"></a>
                             </div>
                             <div class="find col-lg-4 col-md-4 col-sm-12 col-xs-12">
                                 <input name="ctl00$Txt_KeySearch" type="text" id="Txt_KeySearch"
@@ -130,20 +132,73 @@ $intro_link = JRoute::_(ContentHelperRoute::getArticleRoute(JKentlib::INTRO_ID, 
     <jdoc:include type="message" />
     <jdoc:include type="component" />
 
-    <div class="container-fluid row bordertop background00a651">
-        <div class="mainwidth padding_27 container">
-            <div class="addressfoot col-lg-5 col-md-5 col-sm-12 col-xs-12">
-                <span class="name">Công ty TNHH MTV TM DV TÙNG KHOA</span><br>
-                89 Bàu cát 3, P12, Q.Tân Bình, TP.HCM<br>
-                Điện thoại: (08) 38 494 818 - Fax:  (08) 38 492 529<br>
-                MST:  0311850514
-            </div>
-            <div class="copyright col-lg-5 col-md-5 col-sm-12 col-xs-12">
-                Copyright© <?php echo date('Y');?> In Kỹ Thuật Số. All rights reserved<br>
-                Thiết kế bởi Inkythuatso.top
-            </div>
+    <footer class="footer-distributed">
+
+        <div class="footer-left">
+
+            <h3> <img class="img-responsive" alt="Thiết kế mỹ thuật Tùng Khoa"
+                      src="images/logo.png"
+                      title="Thiết kế mỹ thuật Tùng Khoa"></h3>
+
+            <p class="footer-links">
+                <?php
+                foreach ($menu_list as $menuitem) {
+                ?>
+                <a href="#">Home</a>
+                <?php } ?>
+                ·
+                <a href="#">Blog</a>
+                ·
+                <a href="#">Pricing</a>
+                ·
+                <a href="#">About</a>
+                ·
+                <a href="#">Faq</a>
+                ·
+                <a href="#">Contact</a>
+            </p>
+
+            <p class="footer-company-name">Company Name &copy; 2015</p>
         </div>
-    </div>
+
+        <div class="footer-center">
+
+            <div>
+                <i class="fa fa-map-marker"></i>
+                <p><span>21 Revolution Street</span> Paris, France</p>
+            </div>
+
+            <div>
+                <i class="fa fa-phone"></i>
+                <p>+1 555 123456</p>
+            </div>
+
+            <div>
+                <i class="fa fa-envelope"></i>
+                <p><a href="mailto:support@company.com">support@company.com</a></p>
+            </div>
+
+        </div>
+
+        <div class="footer-right">
+
+            <p class="footer-company-about">
+                <span>About the company</span>
+                Lorem ipsum dolor sit amet, consectateur adispicing elit. Fusce euismod convallis velit, eu auctor lacus vehicula sit amet.
+            </p>
+
+            <div class="footer-icons">
+
+                <a href="#"><i class="fa fa-facebook"></i></a>
+                <a href="#"><i class="fa fa-twitter"></i></a>
+                <a href="#"><i class="fa fa-linkedin"></i></a>
+                <a href="#"><i class="fa fa-github"></i></a>
+
+            </div>
+
+        </div>
+
+    </footer>
 
 </body>
 </html>
