@@ -435,7 +435,7 @@ defined('_JEXEC') or die;
 		<li class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
 			<img class="img-responsive" alt="Lịch tết 2016" src="images/lichtet.jpg"
 				 title="Lịch tết 2016">
-			<a href="http://lichtetdep.vn/Lich_tet_2016.html" class="button absolute_left" title="Lịch tết 2016"
+			<a href="javascript:void(0);" class="button absolute_left" title="Lịch tết 2016"
 			   target="_blank">Xem thêm</a>
 		</li>
 
@@ -443,7 +443,7 @@ defined('_JEXEC') or die;
 		<li class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
 			<img class="img-responsive" alt="In Nhanh" src="images/innhanh.jpg"
 				 title="In Nhanh">
-			<a href="http://lichtetdep.vn/innhanh/" class="button absolute_right" title="In Nhanh" target="_blank">Xem
+			<a href="javascript:void(0);" class="button absolute_right" title="In Nhanh" target="_blank">Xem
 				thêm</a>
 		</li>
 

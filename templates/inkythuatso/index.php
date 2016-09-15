@@ -57,9 +57,9 @@ $intro_link = JRoute::_(ContentHelperRoute::getArticleRoute(JKentlib::INTRO_ID, 
                             </li>
 
                             <li class="col-lg-6">
-                                <img alt="(08) 38 494 818 - Hotline: 0902 2417738 - 0937723477"
+                                <img alt="(08) 38 494 818 - Hotline: 0902417738 - 0937723477"
                                      src="images/phone.png"
-                                     title="(08) 38 494 818 - Hotline: 0902 2417738 - 0937723477">(08) 38 494 818 - Hotline: 0902 2417738 - 0937723477
+                                     title="(08) 38 494 818 - Hotline: 0902417738 - 0937723477">(08) 38 494 818 - Hotline: 0902417738 - 0937723477
                             </li>
 
                         </ul>
@@ -133,14 +133,14 @@ $intro_link = JRoute::_(ContentHelperRoute::getArticleRoute(JKentlib::INTRO_ID, 
     <div class="container-fluid row bordertop background00a651">
         <div class="mainwidth padding_27 container">
             <div class="addressfoot col-lg-5 col-md-5 col-sm-12 col-xs-12">
-                <span class="name">Công ty thiết kế Mỹ Thuật Cao Nguyên Xanh</span><br>
-                34/10 Bàu cát 2, P14, Q.Tân Bình, TP.HCM<br>
-                Điện thoại: 08.6292 4282 - Fax: 08.3949 2357<br>
-                MST: 0304880437
+                <span class="name">Công ty TNHH MTV TM DV TÙNG KHOA</span><br>
+                89 Bàu cát 3, P12, Q.Tân Bình, TP.HCM<br>
+                Điện thoại: (08) 38 494 818 - Fax:  (08) 38 492 529<br>
+                MST:  0311850514
             </div>
             <div class="copyright col-lg-5 col-md-5 col-sm-12 col-xs-12">
-                copyright© 2015 Cao Nguyên Xanh. All rights reserved<br>
-                Thiết kế bởi Cao Nguyên Xanh
+                Copyright© <?php echo date('Y');?> In Kỹ Thuật Số. All rights reserved<br>
+                Thiết kế bởi Inkythuatso.top
             </div>
         </div>
     </div>
