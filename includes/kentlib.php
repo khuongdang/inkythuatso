@@ -6,8 +6,46 @@
  * Time: 4:24 CH
  */
 defined('_JEXEC') or die;
+
 final class JKentlib {
     const INTRO_ID = 1;
+    public static function getCategoryImage($cat_id)
+    {
+        $category = JCategories::getInstance('Content')->get($cat_id);
+        if ($category->getParams()->get('image')) {
+            return $category->getParams()->get('image');
+        }
+        return ;
+    }
+
+    public static function getArtileFromFirstCatParent($cat_parent_first_id = 8)
+    {
+        $article_list = null;
+        if (isset($cat_parent_first_id) && !empty($cat_parent_first_id)) {
+            $db = JFactory::getDbo();
+
+            $query = "SELECT * FROM #__categories WHERE parent_id = $cat_parent_first_id";
+            $db->setQuery($query);
+            $rows = $db->loadObjectList();
+            foreach ($rows as $obj) {
+                $cat_ids[] = $obj->id;
+            }
+            $cat_ids = implode(',', $cat_ids);
+            $query_article = "SELECT * FROM #__content WHERE catid IN (" . $cat_ids . ") AND state = 1 ORDER BY id DESC";
+            $db->setQuery($query_article);
+            $article_list = $db->loadObjectList();
+        }
+        return $article_list[0];
+    }
+
+    public static function isProductPage($article)
+    {
+        $options    = array();
+        $categories = JCategories::getInstance('Content', $options);
+        $category   = $categories->get($article->catid);
+        var_dump($category->getParent());die;
+        return false;
+    }
 
     public static function getCategoryFromParent($cat_id = 0)
     {
@@ -27,7 +65,7 @@ final class JKentlib {
         return $items;
     }
 
-    public static function getArticleContent($article_id)
+    public static function getArticleInfo($article_id)
     {
         if (isset($article_id) && $article_id != 0) {
             $db = JFactory::getDbo();
@@ -47,11 +85,16 @@ final class JKentlib {
         }
     }
 
-    public static function getArticleFromCategory($category_id)
+    public static function getArticleFromCategory($category_id, $article_id = 0)
     {
         if (isset($category_id) && $category_id != 0) {
             $db = JFactory::getDbo();
-            $query = "SELECT * FROM #__content WHERE catid = $category_id";
+            if ($article_id != 0) {
+                $query = "SELECT * FROM #__content WHERE catid = $category_id and id != $article_id";
+            } else {
+                $query = "SELECT * FROM #__content WHERE catid = $category_id";
+            }
+
             $db->setQuery($query);
             return $db->loadObjectList();
         }

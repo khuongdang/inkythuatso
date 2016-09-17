@@ -1,7 +1,5 @@
 <?php
-
 defined('_JEXEC') or die;
-
 ?>
 
 <div class="container-fluid">
@@ -147,10 +145,7 @@ defined('_JEXEC') or die;
 
 <div class="mainwidth container ">
     <div id="carousel-Top1 " class="es-carousel-wrapper ">
-
-        <input type="hidden " name="ctl00$MainContent$Rpt_ProductGroupTopMain$ctl00$Hdf_ProGroupID "
-               id="MainContent_Rpt_ProductGroupTopMain_Hdf_ProGroupID_0 " value="1 ">
-        <h1 class="title "><a href="javascript:void(0); "" title="In offset                                                                                                                                                                                                                                                      ">In offset / Xem thêm </a>
+        <h1 class="title "><a href="javascript:void(0); title="In offset">In UV / Xem thêm </a>
         </h1>
         <div class="es-carousel col-lg-12">
             <ul class="items" style="width: 4861px; margin-left: 0px;">
@@ -340,7 +335,7 @@ defined('_JEXEC') or die;
                         <figure class="p3">
                                         <span class="img-box">
 											<img class="img-responsive" src="images/Inofset_4.jpg"
-                                                 alt="CNX">
+                                                 alt="TKC">
 										</span>
                             <span class="name">Catalogue</span>
                         </figure>
@@ -366,14 +361,14 @@ defined('_JEXEC') or die;
 
         <li class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
             <img class="img-responsive" alt="Lịch tết 2016" src="images/lichtet.jpg" title="Lịch tết 2016">
-            <a href="javascript:void(0);" class="button absolute_left" title="Lịch tết 2016" target="_blank">Xem thêm</a>
+           <!-- <a href="javascript:void(0);" class="button absolute_left" title="Lịch tết 2016" target="_blank">Xem thêm</a>-->
         </li>
 
 
         <li class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
             <img class="img-responsive" alt="In Nhanh" src="images/innhanh.jpg" title="In Nhanh">
-            <a href="javascript:void(0);" class="button absolute_right" title="In Nhanh" target="_blank">Xem
-                thêm</a>
+            <!--<a href="javascript:void(0);" class="button absolute_right" title="In Nhanh" target="_blank">Xem
+                thêm</a>-->
         </li>
 
     </ul>
@@ -384,7 +379,7 @@ defined('_JEXEC') or die;
         <div class="mainwidth container">
             <div id="carousel-1" class="es-carousel-wrapper">
                 <h1 class="title">
-                    <a href="javascript:void(0);" title="In decal - in decal dạng cuộn">In UV / Xem thêm </a></h1>
+                    <a href="javascript:void(0);" title="In decal - in decal dạng cuộn">In Dạng Phẳng / Xem thêm </a></h1>
                 <div class="es-carousel col-lg-12">
                     <ul class="items" style="width: 1396px; margin-left: 0px;">
 
@@ -438,7 +433,7 @@ defined('_JEXEC') or die;
                                 <figure class="p3">
                                         <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/Admin_99201519397964.png)">
 													<img class="img-responsive"
-                                                         src="images/Inofset_4.jpg" alt="CNX">
+                                                         src="images/Inofset_4.jpg" alt="TKC">
 												</span>
                                     <h2 class="name">Catalogue</h2>
                                 </figure>
@@ -522,7 +517,7 @@ defined('_JEXEC') or die;
                                 <figure class="p3">
                                         <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/Admin_992015194339631.png)">
 													<img class="img-responsive"
-                                                         src="images/Inofset_4.jpg" alt="CNX">
+                                                         src="images/Inofset_4.jpg" alt="TKC">
 												</span>
                                     <h2 class="name">Catalogue</h2>
                                 </figure>
@@ -541,56 +536,5 @@ defined('_JEXEC') or die;
         </div>
     </div>
 </div>
-<div class="container-fluid row margin_bottom_30">
-    <div class="mainwidth container">
-        <div class="link_web col-lg-3 col-md-3 col-sm-3 col-xs-12 ">
-            <div class="title">Liên kết website</div>
-            <ul>
-
-                <li><a href="javascript:void(0);" target="_blank">Thiết kế website </a>
-                </li>
-
-                <li><a href="javascript:void(0);" target="_blank">Chụp ảnh quảng
-                        cáo </a>
-                </li>
-
-                <li><a href="http://lichtetdep.vn/Thiep_tet_2015.html" target="_blank">Lịch tết - Bao lì xì - Sổ tay
-                        - Thiệp tết</a>
-                </li>
-
-            </ul>
-        </div>
-        <div class="news_index clearfix col-lg-5 col-md-5 col-sm-5 col-xs-12 ">
-            <h1 class="title">Công Nghệ in</h1>
-            <ul>
-
-                <li>
-                    <a href="javascript:void(0);" class="clearfix">
-                        <span class="image col-lg-3 col-md-3 col-sm-3 col-xs-3 " style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/Admin_79201585234271.jpg)"></span>
-                        <h2 class="name col-lg-9 col-md-9 col-sm-9 col-xs-9 ">Công Nghệ In Pp -Decal Pp</h2>
-                        <h3 class="summary col-lg-9 col-md-9 col-sm-9 col-xs-9"><span style="text-align: justify;">Là
-tên một loại giấy trong ngành in ấn kỹ thuật số. PP&nbsp; hơn giấy ảnh, mặt
-sau có keo hoặc không keo, sau khi in được phủ lên một lớp&nbsp; bảo vệ (bóng
- hoặc mờ).</span></h3>
-                    </a>
-                </li>
-
-                <li>
-                    <a href="javascript:void(0);" class="clearfix">
-                        <span class="image col-lg-3 col-md-3 col-sm-3 col-xs-3 " style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/Admin_79201585046753.jpg)"></span>
-                        <h2 class="name col-lg-9 col-md-9 col-sm-9 col-xs-9 ">Công Nghệ In Hiflex - In Bạt
-                            Hiflex</h2>
-                        <h3 class="summary col-lg-9 col-md-9 col-sm-9 col-xs-9"><span style="text-align: justify;">In bạt hiflex thật ra là&nbsp;</span><span
-                                style="text-align: justify;">in hiflex</span><span style="text-align: justify;">&nbsp;bởi vì theo thị hiếu của người dùng thường dùng hiflex trong việc làm dù, bạt, mái...che nên gọi là in bạt hiflex&nbsp; ...trong các chương trình tổ chức sự kiện,hội nghị.</span>
-                        </h3>
-                    </a>
-                </li>
-
-            </ul>
-        </div>
-
-    </div>
-</div>
-
 
 <div class="container-fluid row line_black"></div>

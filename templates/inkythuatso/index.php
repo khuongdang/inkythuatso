@@ -6,7 +6,6 @@
 // No direct access.
 defined('_JEXEC') or die;
 $menu_list = JKentlib::getMainMenu(8);
-$intro_link = JRoute::_(ContentHelperRoute::getArticleRoute(JKentlib::INTRO_ID, 14));
 ?>
 <!DOCTYPE html>
 <html lang="<?php echo $this->language; ?>" dir="<?php echo $this->direction; ?>">
@@ -144,18 +143,8 @@ $intro_link = JRoute::_(ContentHelperRoute::getArticleRoute(JKentlib::INTRO_ID, 
                 <?php
                 foreach ($menu_list as $menuitem) {
                 ?>
-                <a href="#">Home</a>
+                <a href="#"><?php echo $menuitem->title . ' | ';?></a>
                 <?php } ?>
-                ·
-                <a href="#">Blog</a>
-                ·
-                <a href="#">Pricing</a>
-                ·
-                <a href="#">About</a>
-                ·
-                <a href="#">Faq</a>
-                ·
-                <a href="#">Contact</a>
             </p>
 
             <p class="footer-company-name">Company Name &copy; 2015</p>

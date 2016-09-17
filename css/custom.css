@@ -4,8 +4,8 @@
     box-sizing: border-box;
     width: 100%;
     text-align: left;
-    font: bold 16px sans-serif;
-
+    font-size: 13px;
+    font-weight: bold;
     padding: 55px 50px;
 }
 
@@ -146,22 +146,23 @@
 /* If you don't want the footer to be responsive, remove these media queries */
 
 @media (max-width: 880px) {
-
-    .footer-distributed{
-        font: bold 14px sans-serif;
-    }
-
     .footer-distributed .footer-left,
     .footer-distributed .footer-center,
     .footer-distributed .footer-right{
         display: block;
         width: 100%;
         margin-bottom: 40px;
-        text-align: center;
+        text-align: left;
     }
 
     .footer-distributed .footer-center i{
         margin-left: 0;
     }
 
+}
+
+.content img{
+    max-width: 100% !important;
+    display:block;
+    height: auto !important;
 }

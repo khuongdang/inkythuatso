@@ -17,6 +17,7 @@ if (strlen($title) > 80) {
 $category_info = JKentlib::getCategoryInfo($this->item->catid);
 $category_link = JRoute::_(ContentHelperRoute::getCategoryRoute($this->item->catid));
 $artiles_cat = JKentlib::getArticleFromCategory($category_info->id);
+$image_banner = JKentlib::getCategoryImage(20);
 ?>
 
 <div class="container-fluid row clearfix">
@@ -34,7 +35,7 @@ $artiles_cat = JKentlib::getArticleFromCategory($category_info->id);
         ?>
         <div class="banner_page margin_bottom_24">
             <a href="#">
-                <img class="img-responsive" alt="CNX" src="images/banner_gioithieu.png" title="CNX">
+                <img class="img-responsive" alt="TKC" src="<?php echo $image_banner; ?>" title="TKC">
             </a>
         </div>
         <div class="blog_left col-lg-3 col-md-3 col-sm-3 col-xs-12">
