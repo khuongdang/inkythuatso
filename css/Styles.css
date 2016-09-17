@@ -782,6 +782,7 @@ h2 {
     padding-left: 16px;
     color: #000;
     text-decoration: none;
+    text-transform: uppercase;
 }
 
 .menu_left ul li a h2 {
@@ -1656,7 +1657,6 @@ h2 {
 
 .creation_area_list ul li a .image {
     border: 1px solid #A4A3A3;
-    height: 130px !important;
     margin-right: 5px;
 }
 

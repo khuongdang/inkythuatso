@@ -86,15 +86,21 @@ defined('_JEXEC') or die;
             <ul>
 
                 <li class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    <a href="javascript:void(0);" style="background-image: url(images/website.jpg); background-position: top; background-repeat: no-repeat; background-size: 100%;" title="THIẾT KẾ - QUẢN TRỊ WEBSITE">
-                        <span>THIẾT KẾ - QUẢN TRỊ WEBSITE</span>
-                    </a>
+                    <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ftuan.tbcprinter&tabs&width=365&height=250&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=109996865756563" width="365" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
                 </li>
 
                 <li class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    <a href="javascript:void(0);" style="background-image: url(images/quangcao.jpg); background-position: top; background-repeat: no-repeat; background-size: 100%;" title="CHỤP ẢNH - QUẢNG CÁO">
-                        <span>CHỤP ẢNH - QUẢNG CÁO</span>
-                    </a>
+                    <?php
+                    $document = JFactory::getDocument();
+                    $params = array();
+                    $renderer = $document->loadRenderer('module');
+                    $position = 'video';
+                    $contents = '';
+                    foreach (JModuleHelper::getModules($position) as $mod) {
+                        $contents .= $renderer->render($mod, $params);
+                    }
+                    echo $contents;
+                    ?>
                 </li>
 
             </ul>
@@ -144,7 +150,7 @@ defined('_JEXEC') or die;
 </div>
 
 <div class="mainwidth container ">
-    <div id="carousel-Top1 " class="es-carousel-wrapper ">
+    <div id="carousel-Top1" class="es-carousel-wrapper ">
         <h1 class="title "><a href="javascript:void(0); title="In offset">In UV / Xem thêm </a>
         </h1>
         <div class="es-carousel col-lg-12">

@@ -3,204 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="0c44e24e-8aa0-491a-a53c-eb05af0abace" name="Default" comment="update new">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_jce/jce.xml" afterPath="$PROJECT_DIR$/administrator/components/com_jce/jce.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_jce/media/css/cpanel.css" afterPath="$PROJECT_DIR$/administrator/components/com_jce/media/css/cpanel.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_jce/media/css/global.css" afterPath="$PROJECT_DIR$/administrator/components/com_jce/media/css/global.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_jce/media/css/install.css" afterPath="$PROJECT_DIR$/administrator/components/com_jce/media/css/install.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_jce/media/css/installer.css" afterPath="$PROJECT_DIR$/administrator/components/com_jce/media/css/installer.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_jce/media/css/module.css" afterPath="$PROJECT_DIR$/administrator/components/com_jce/media/css/module.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_jce/media/css/preferences.css" afterPath="$PROJECT_DIR$/administrator/components/com_jce/media/css/preferences.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_jce/media/css/profiles.css" afterPath="$PROJECT_DIR$/administrator/components/com_jce/media/css/profiles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_jce/media/css/updates.css" afterPath="$PROJECT_DIR$/administrator/components/com_jce/media/css/updates.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_jce/media/css/upload.css" afterPath="$PROJECT_DIR$/administrator/components/com_jce/media/css/upload.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_jce/media/css/users.css" afterPath="$PROJECT_DIR$/administrator/components/com_jce/media/css/users.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_jce/media/js/browser.js" afterPath="$PROJECT_DIR$/administrator/components/com_jce/media/js/browser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_jce/media/js/core.js" afterPath="$PROJECT_DIR$/administrator/components/com_jce/media/js/core.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_jce/media/js/cpanel.js" afterPath="$PROJECT_DIR$/administrator/components/com_jce/media/js/cpanel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_jce/media/js/installer.js" afterPath="$PROJECT_DIR$/administrator/components/com_jce/media/js/installer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_jce/media/js/preferences.js" afterPath="$PROJECT_DIR$/administrator/components/com_jce/media/js/preferences.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_jce/media/js/profile.js" afterPath="$PROJECT_DIR$/administrator/components/com_jce/media/js/profile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_jce/media/js/update.js" afterPath="$PROJECT_DIR$/administrator/components/com_jce/media/js/update.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_jce/media/js/uploads.js" afterPath="$PROJECT_DIR$/administrator/components/com_jce/media/js/uploads.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_jce/media/js/users.js" afterPath="$PROJECT_DIR$/administrator/components/com_jce/media/js/users.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/aggregator/dailymotion.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/aggregator/dailymotion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/aggregator/dailymotion/js/dailymotion.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/aggregator/dailymotion/js/dailymotion.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/aggregator/vimeo.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/aggregator/vimeo.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/aggregator/vimeo/js/vimeo.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/aggregator/vimeo/js/vimeo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/aggregator/vine.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/aggregator/vine.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/aggregator/vine/js/vine.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/aggregator/vine/js/vine.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/aggregator/youtube.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/aggregator/youtube.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/aggregator/youtube/js/youtube.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/aggregator/youtube/js/youtube.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/filesystem/joomla.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/filesystem/joomla.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/links/joomlalinks.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/links/joomlalinks.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/links/joomlalinks/css/joomlalinks.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/links/joomlalinks/css/joomlalinks.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/mediaplayer/jceplayer.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/mediaplayer/jceplayer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/mediaplayer/jceplayer/css/jceplayer.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/mediaplayer/jceplayer/css/jceplayer.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/mediaplayer/jceplayer/js/jceplayer.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/mediaplayer/jceplayer/js/jceplayer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/popups/jcemediabox.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/popups/jcemediabox.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/popups/jcemediabox/css/jcemediabox.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/popups/jcemediabox/css/jcemediabox.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/popups/jcemediabox/js/jcemediabox.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/popups/jcemediabox/js/jcemediabox.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/popups/window.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/popups/window.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/popups/window/css/window.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/popups/window/css/window.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/popups/window/js/window.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/popups/window/js/window.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/search/css/link.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/search/css/link.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/search/js/link.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/search/js/link.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/search/link.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/search/link.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/libraries/classes/editor.php" afterPath="$PROJECT_DIR$/components/com_jce/editor/libraries/classes/editor.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/libraries/css/colorpicker.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/libraries/css/colorpicker.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/libraries/css/editor.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/libraries/css/editor.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/libraries/css/files.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/libraries/css/files.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/libraries/css/help.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/libraries/css/help.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/libraries/css/manager.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/libraries/css/manager.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/libraries/css/plugin.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/libraries/css/plugin.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/libraries/css/popup.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/libraries/css/popup.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/libraries/jquery/css/jquery-ui.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/libraries/jquery/css/jquery-ui.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/libraries/js/editor.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/libraries/js/editor.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/libraries/js/help.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/libraries/js/help.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/libraries/js/link.full.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/libraries/js/link.full.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/libraries/js/manager.full.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/libraries/js/manager.full.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/libraries/js/plugin.full.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/libraries/js/plugin.full.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/advlist/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/advlist/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/anchor/anchor.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/anchor/anchor.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/anchor/css/content.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/anchor/css/content.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/anchor/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/anchor/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/article/article.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/article/article.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/article/css/content.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/article/css/content.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/article/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/article/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/autosave/autosave.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/autosave/autosave.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/autosave/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/autosave/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/browser/browser.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/browser/browser.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/browser/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/browser/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/browser/js/browser.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/browser/js/browser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/charmap/charmap.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/charmap/charmap.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/charmap/css/charmap.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/charmap/css/charmap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/charmap/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/charmap/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/charmap/js/charmap.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/charmap/js/charmap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/cleanup/cleanup.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/cleanup/cleanup.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/clipboard/clipboard.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/clipboard/clipboard.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/clipboard/css/blank.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/clipboard/css/blank.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/clipboard/css/clipboard.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/clipboard/css/clipboard.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/clipboard/css/content.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/clipboard/css/content.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/clipboard/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/clipboard/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/clipboard/js/clipboard.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/clipboard/js/clipboard.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/code/css/content.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/code/css/content.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/colorpicker/css/colorpicker.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/colorpicker/css/colorpicker.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/colorpicker/js/colorpicker.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/colorpicker/js/colorpicker.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/contextmenu/contextmenu.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/contextmenu/contextmenu.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/contextmenu/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/contextmenu/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/directionality/directionality.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/directionality/directionality.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/directionality/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/directionality/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/fontcolor/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/fontcolor/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/fontcolor/fontcolor.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/fontcolor/fontcolor.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/fontselect/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/fontselect/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/fontselect/fontselect.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/fontselect/fontselect.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/fontsizeselect/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/fontsizeselect/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/fontsizeselect/fontsizeselect.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/fontsizeselect/fontsizeselect.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/formatselect/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/formatselect/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/formatselect/formatselect.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/formatselect/formatselect.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/fullscreen/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/fullscreen/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/fullscreen/fullscreen.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/fullscreen/fullscreen.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/hr/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/hr/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/hr/hr.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/hr/hr.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/imgmanager/css/imgmanager.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/imgmanager/css/imgmanager.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/imgmanager/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/imgmanager/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/imgmanager/imgmanager.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/imgmanager/imgmanager.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/imgmanager/js/imgmanager.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/imgmanager/js/imgmanager.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/importcss/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/importcss/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/inlinepopups/css/dialog.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/inlinepopups/css/dialog.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/inlinepopups/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/inlinepopups/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/inlinepopups/inlinepopups.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/inlinepopups/inlinepopups.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/kitchensink/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/kitchensink/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/kitchensink/kitchensink.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/kitchensink/kitchensink.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/layer/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/layer/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/layer/layer.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/layer/layer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/link/css/link.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/link/css/link.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/link/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/link/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/link/js/link.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/link/js/link.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/link/link.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/link/link.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/lists/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/lists/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/lists/lists.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/lists/lists.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/media/css/content.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/media/css/content.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/media/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/media/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/media/media.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/media/media.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/nonbreaking/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/nonbreaking/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/nonbreaking/nonbreaking.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/nonbreaking/nonbreaking.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/preview/css/preview.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/preview/css/preview.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/preview/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/preview/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/preview/preview.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/preview/preview.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/print/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/print/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/print/print.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/print/print.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/searchreplace/css/searchreplace.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/searchreplace/css/searchreplace.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/searchreplace/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/searchreplace/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/searchreplace/js/searchreplace.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/searchreplace/js/searchreplace.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/searchreplace/searchreplace.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/searchreplace/searchreplace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/source/css/editor.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/source/css/editor.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/source/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/source/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/source/js/editor.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/source/js/editor.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/source/js/format.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/source/js/format.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/source/source.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/source/source.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/spellchecker/css/content.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/spellchecker/css/content.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/spellchecker/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/spellchecker/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/spellchecker/spellchecker.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/spellchecker/spellchecker.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/style/css/style.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/style/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/style/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/style/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/style/js/style.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/style/js/style.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/style/style.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/style/style.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/styleselect/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/styleselect/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/styleselect/styleselect.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/styleselect/styleselect.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/tabfocus/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/tabfocus/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/table/css/table.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/table/css/table.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/table/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/table/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/table/js/table.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/table/js/table.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/table/table.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/table/table.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/textcase/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/textcase/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/textcase/textcase.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/textcase/textcase.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/upload/css/content.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/upload/css/content.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/visualblocks/css/visualblocks.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/visualblocks/css/visualblocks.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/visualblocks/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/visualblocks/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/visualblocks/visualblocks.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/visualblocks/visualblocks.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/visualchars/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/visualchars/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/visualchars/visualchars.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/visualchars/visualchars.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/wordcount/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/wordcount/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/xhtmlxtras/css/content.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/xhtmlxtras/css/content.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/xhtmlxtras/css/xhtmlxtras.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/xhtmlxtras/css/xhtmlxtras.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/xhtmlxtras/editor_plugin.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/xhtmlxtras/editor_plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/xhtmlxtras/js/xhtmlxtras.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/xhtmlxtras/js/xhtmlxtras.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/xhtmlxtras/xhtmlxtras.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/xhtmlxtras/xhtmlxtras.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/classic/content.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/classic/content.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/classic/ui.admin.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/classic/ui.admin.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/classic/ui.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/classic/ui.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/default/content.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/default/content.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/default/ui.admin.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/default/ui.admin.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/default/ui.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/default/ui.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/highcontrast/content.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/highcontrast/content.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/highcontrast/ui.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/highcontrast/ui.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/mobile/content.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/mobile/content.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/mobile/ui.admin.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/mobile/ui.admin.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/mobile/ui.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/mobile/ui.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/o2k7/content.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/o2k7/content.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/o2k7/ui.admin.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/o2k7/ui.admin.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/o2k7/ui.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/o2k7/ui.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/o2k7/ui_black.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/o2k7/ui_black.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/o2k7/ui_silver.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/advanced/skins/o2k7/ui_silver.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/none/skins/default/content.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/none/skins/default/content.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/none/skins/default/ui.css" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/themes/none/skins/default/ui.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/tiny_mce.js" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/tiny_mce.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/media/css/popup.css" afterPath="$PROJECT_DIR$/components/com_jce/media/css/popup.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/configuration.php" afterPath="$PROJECT_DIR$/configuration.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_gocsangtao/views/gocsangtao/tmpl/default.php" afterPath="$PROJECT_DIR$/components/com_gocsangtao/views/gocsangtao/tmpl/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_sanpham/views/sanphams/tmpl/default.php" afterPath="$PROJECT_DIR$/components/com_sanpham/views/sanphams/tmpl/default.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/Styles.css" afterPath="$PROJECT_DIR$/css/Styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/kentlib.php" afterPath="$PROJECT_DIR$/includes/kentlib.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.com_jce.xml" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.com_jce.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/content/jce/css/media.css" afterPath="$PROJECT_DIR$/plugins/content/jce/css/media.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/content/jce/jce.xml" afterPath="$PROJECT_DIR$/plugins/content/jce/jce.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/editors/jce/jce.xml" afterPath="$PROJECT_DIR$/plugins/editors/jce/jce.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/quickicon/jcefilebrowser/jcefilebrowser.xml" afterPath="$PROJECT_DIR$/plugins/quickicon/jcefilebrowser/jcefilebrowser.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/system/jce/jce.xml" afterPath="$PROJECT_DIR$/plugins/system/jce/jce.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/inkythuatso/html/com_content/article/default.php" afterPath="$PROJECT_DIR$/templates/inkythuatso/html/com_content/article/default.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/inkythuatso/html/com_content/featured/default.php" afterPath="$PROJECT_DIR$/templates/inkythuatso/html/com_content/featured/default.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/inkythuatso/html/mod_breadcrumbs/default.php" afterPath="$PROJECT_DIR$/templates/inkythuatso/html/mod_breadcrumbs/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/inkythuatso/index.php" afterPath="$PROJECT_DIR$/templates/inkythuatso/index.php" />
     </list>
     <ignored path="inkythuatso.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -224,8 +33,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/inkythuatso/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-323">
-              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+            <state relative-caret-position="109">
+              <caret line="33" column="22" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -234,8 +43,8 @@
       <file leaf-file-name="kentlib.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/includes/kentlib.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="45" column="41" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="41" />
+            <state relative-caret-position="143">
+              <caret line="88" column="5" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
               <folding>
                 <marker date="1474104265112" expanded="true" signature="694:739" ph="SELECT * FRO... ikts_categories" />
                 <marker date="1474104265112" expanded="true" signature="1009:1018" ph="SELECT * fro... " />
@@ -258,20 +67,51 @@
       <file leaf-file-name="default.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/inkythuatso/html/com_content/featured/default.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+            <state relative-caret-position="170">
+              <caret line="88" column="386" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="386" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#iframe#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
+                <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
+                <element signature="n#li#2;n#ul#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
+                <element signature="n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
+                <element signature="n#li#4;n#ul#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
+                <element signature="n#li#5;n#ul#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#5;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#1;n#div#0;n#div#5;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.elastislide.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/jquery.elastislide.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6">
+              <caret line="529" column="18" selection-start-line="529" selection-start-column="8" selection-end-line="529" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="include.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/content/osyoutube/include.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/inkythuatso/html/com_content/article/default.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            <state relative-caret-position="-85">
+              <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
               <folding>
-                <marker date="1474094031036" expanded="true" signature="1670:1764" ph="..." />
+                <marker date="1474125847954" expanded="true" signature="1670:1986" ph="..." />
               </folding>
             </state>
           </provider>
@@ -280,25 +120,16 @@
       <file leaf-file-name="default.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/inkythuatso/html/mod_breadcrumbs/default.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="28" column="71" selection-start-line="28" selection-start-column="71" selection-end-line="28" selection-end-column="71" />
+            <state relative-caret-position="595">
+              <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
               <folding>
                 <element signature="e#6#244#0#PHP" expanded="false" />
                 <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
-                <marker date="1474101574454" expanded="true" signature="925:935" ph="..." />
-                <marker date="1474101574454" expanded="true" signature="1480:1490" ph="..." />
-                <marker date="1474101574454" expanded="true" signature="1659:1669" ph="..." />
+                <marker date="1474109110785" expanded="true" signature="925:935" ph="..." />
+                <marker date="1474109110785" expanded="true" signature="1480:1490" ph="..." />
+                <marker date="1474109110785" expanded="true" signature="1659:1669" ph="..." />
+                <marker date="1474109110785" expanded="true" signature="1841:1851" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sanpham.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/com_sanpham/sanpham.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -306,43 +137,63 @@
       <file leaf-file-name="default.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/com_sanpham/views/sanphams/tmpl/default.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="129" column="76" selection-start-line="0" selection-start-column="0" selection-end-line="161" selection-end-column="6" />
+            <state relative-caret-position="-1333">
+              <caret line="30" column="6" selection-start-line="20" selection-start-column="4" selection-end-line="30" selection-end-column="6" />
               <folding>
-                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#div#3;n#div#2;n#div#0;n#!!top" expanded="false" />
                 <element signature="n#div#4;n#div#2;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#li#0;n#ul#0;n#div#5;n#div#2;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#li#1;n#ul#0;n#div#5;n#div#2;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#6;n#div#2;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#div#6;n#div#2;n#div#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#span#0;n#figure#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#6;n#div#2;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#div#6;n#div#2;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#1;n#div#2;n#div#0;n#div#6;n#div#2;n#div#0;n#!!top" expanded="true" />
-                <marker date="1474104570087" expanded="true" signature="7635:7768" ph="..." />
-                <marker date="1474104570087" expanded="true" signature="7805:7962" ph="..." />
-                <marker date="1474104570087" expanded="true" signature="7909:7939" ph="..." />
+                <marker date="1474110603822" expanded="true" signature="2124:2142" ph="..." />
+                <marker date="1474110603822" expanded="true" signature="2635:2842" ph="..." />
+                <marker date="1474110603822" expanded="true" signature="2740:2827" ph="..." />
+                <marker date="1474110603822" expanded="true" signature="2920:3341" ph="..." />
+                <marker date="1474110603822" expanded="true" signature="3003:3087" ph="..." />
+                <marker date="1474110603822" expanded="true" signature="3139:3159" ph="..." />
+                <marker date="1474110603822" expanded="true" signature="3262:3326" ph="..." />
+                <marker date="1474110603822" expanded="true" signature="3363:3374" ph="..." />
+                <marker date="1474110603822" expanded="true" signature="3438:3458" ph="..." />
+                <marker date="1474110603822" expanded="true" signature="3637:3704" ph="..." />
+                <marker date="1474110603822" expanded="true" signature="3898:4916" ph="..." />
+                <marker date="1474110603822" expanded="true" signature="3965:4901" ph="..." />
+                <marker date="1474110603822" expanded="true" signature="4388:4834" ph="..." />
+                <marker date="1474110603822" expanded="true" signature="4438:4672" ph="..." />
+                <marker date="1474110603822" expanded="true" signature="4531:4613" ph="..." />
+                <marker date="1474110603822" expanded="true" signature="4700:4739" ph="..." />
+                <marker date="1474110603822" expanded="true" signature="4782:4809" ph="..." />
+                <marker date="1474110603822" expanded="true" signature="5140:5613" ph="..." />
+                <marker date="1474110603822" expanded="true" signature="5206:5613" ph="..." />
+                <marker date="1474110603822" expanded="true" signature="5301:5613" ph="..." />
+                <marker date="1474110603822" expanded="true" signature="5381:5613" ph="..." />
+                <marker date="1474110603822" expanded="true" signature="5976:5994" ph="..." />
+                <marker date="1474110603822" expanded="true" signature="6156:6178" ph="..." />
+                <marker date="1474110603822" expanded="true" signature="6543:6676" ph="..." />
+                <marker date="1474110603822" expanded="true" signature="6713:6870" ph="..." />
+                <marker date="1474110603822" expanded="true" signature="6817:6847" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="default.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/com_gocsangtao/views/gocsangtao/tmpl/default.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+            <state relative-caret-position="201">
+              <caret line="48" column="29" selection-start-line="45" selection-start-column="27" selection-end-line="48" selection-end-column="29" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#div#3;n#div#2;n#div#0;n#!!top" expanded="false" />
                 <element signature="n#div#4;n#div#2;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#li#0;n#ul#0;n#div#5;n#div#2;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#li#1;n#ul#0;n#div#5;n#div#2;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#6;n#div#2;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#figure#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#6;n#div#2;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#div#6;n#div#2;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#div#2;n#div#0;n#div#6;n#div#2;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#0;n#div#5;n#div#2;n#div#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#5;n#div#2;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#5;n#div#2;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#figure#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#5;n#div#2;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#5;n#div#2;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#div#5;n#div#2;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#div#2;n#div#0;n#div#5;n#div#2;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -401,8 +252,8 @@
       <file leaf-file-name="Styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/Styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="1370" column="1" selection-start-line="1370" selection-start-column="1" selection-end-line="1370" selection-end-column="1" />
+            <state relative-caret-position="296">
+              <caret line="1658" column="30" selection-start-line="1658" selection-start-column="30" selection-end-line="1658" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -411,8 +262,8 @@
       <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="166" column="28" selection-start-line="166" selection-start-column="28" selection-end-line="166" selection-end-column="28" />
+            <state relative-caret-position="248">
+              <caret line="174" column="23" selection-start-line="174" selection-start-column="23" selection-end-line="174" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -472,19 +323,20 @@
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/components/com_content/router.php" />
         <option value="$PROJECT_DIR$/configuration.php" />
-        <option value="$PROJECT_DIR$/templates/inkythuatso/index.php" />
-        <option value="$PROJECT_DIR$/templates/inkythuatso/html/com_content/article/default.php" />
-        <option value="$PROJECT_DIR$/templates/inkythuatso/html/com_content/featured/default.php" />
         <option value="$PROJECT_DIR$/components/com_sef/joomsef.php" />
-        <option value="$PROJECT_DIR$/templates/inkythuatso/html/mod_breadcrumbs/default.php" />
-        <option value="$PROJECT_DIR$/css/Styles.css" />
-        <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/includes/kentlib.php" />
-        <option value="$PROJECT_DIR$/components/com_sanpham/views/sanphams/tmpl/default.php" />
         <option value="$PROJECT_DIR$/components/com_gocsangtao/controllers/gocsangtaos.php" />
         <option value="$PROJECT_DIR$/components/com_gocsangtao/models/gocsangtaos.php" />
         <option value="$PROJECT_DIR$/components/com_gocsangtao/views/gocsangtaos/view.html.php" />
+        <option value="$PROJECT_DIR$/templates/inkythuatso/html/mod_breadcrumbs/default.php" />
+        <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/components/com_gocsangtao/views/gocsangtao/tmpl/default.php" />
+        <option value="$PROJECT_DIR$/components/com_sanpham/views/sanphams/tmpl/default.php" />
+        <option value="$PROJECT_DIR$/css/Styles.css" />
+        <option value="$PROJECT_DIR$/templates/inkythuatso/index.php" />
+        <option value="$PROJECT_DIR$/js/jquery.elastislide.js" />
+        <option value="$PROJECT_DIR$/templates/inkythuatso/html/com_content/featured/default.php" />
+        <option value="$PROJECT_DIR$/templates/inkythuatso/html/com_content/article/default.php" />
       </list>
     </option>
   </component>
@@ -575,11 +427,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
+              <option name="myItemId" value="plugins" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -593,19 +441,11 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
+              <option name="myItemId" value="plugins" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mod_menu" />
+              <option name="myItemId" value="content" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -619,215 +459,15 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
+              <option name="myItemId" value="plugins" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
+              <option name="myItemId" value="content" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mod_breadcrumbs" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com_content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="featured" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com_content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com_content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="article" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com_gocsangtao" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com_gocsangtao" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com_gocsangtao" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gocsangtao" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com_gocsangtao" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gocsangtao" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tmpl" />
+              <option name="myItemId" value="osyoutube" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -948,15 +588,15 @@
       <workItem from="1473913408527" duration="335000" />
       <workItem from="1473913865774" duration="2815000" />
       <workItem from="1474075649735" duration="39000" />
-      <workItem from="1474075705170" duration="18899000" />
+      <workItem from="1474075705170" duration="27692000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83523000" />
+    <option name="totallyTimeSpent" value="92316000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26863754" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1015,7 +655,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1056,7 +696,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1819">
           <caret line="107" column="34" selection-start-line="107" selection-start-column="34" selection-end-line="107" selection-end-column="34" />
-          <folding />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#iframe#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
+            <element signature="n#li#2;n#ul#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
+            <element signature="n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
+            <element signature="n#li#4;n#ul#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
+            <element signature="n#li#5;n#ul#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#5;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#5;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1065,7 +716,7 @@
         <state relative-caret-position="646">
           <caret line="44" column="83" selection-start-line="44" selection-start-column="83" selection-end-line="44" selection-end-column="83" />
           <folding>
-            <marker date="1474094031036" expanded="true" signature="1670:1764" ph="..." />
+            <marker date="1474125847954" expanded="true" signature="1670:1986" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1153,9 +804,10 @@
           <folding>
             <element signature="e#6#244#0#PHP" expanded="false" />
             <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
-            <marker date="1474101574454" expanded="true" signature="925:935" ph="..." />
-            <marker date="1474101574454" expanded="true" signature="1480:1490" ph="..." />
-            <marker date="1474101574454" expanded="true" signature="1659:1669" ph="..." />
+            <marker date="1474109110785" expanded="true" signature="925:935" ph="..." />
+            <marker date="1474109110785" expanded="true" signature="1480:1490" ph="..." />
+            <marker date="1474109110785" expanded="true" signature="1659:1669" ph="..." />
+            <marker date="1474109110785" expanded="true" signature="1841:1851" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1750,14 +1402,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/inkythuatso/html/com_content/featured/default.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/com_content/helpers/category.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-159">
@@ -1798,54 +1442,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/inkythuatso/html/com_content/article/default.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-          <folding>
-            <marker date="1474094031036" expanded="true" signature="1670:1764" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/inkythuatso/html/mod_breadcrumbs/default.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="28" column="71" selection-start-line="28" selection-start-column="71" selection-end-line="28" selection-end-column="71" />
-          <folding>
-            <element signature="e#6#244#0#PHP" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
-            <marker date="1474101574454" expanded="true" signature="925:935" ph="..." />
-            <marker date="1474101574454" expanded="true" signature="1480:1490" ph="..." />
-            <marker date="1474101574454" expanded="true" signature="1659:1669" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/Styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="1370" column="1" selection-start-line="1370" selection-start-column="1" selection-end-line="1370" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="166" column="28" selection-start-line="166" selection-start-column="28" selection-end-line="166" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/inkythuatso/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-323">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/com_gocsangtao/controllers/gocsangtaos.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="142">
@@ -1870,36 +1466,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/com_sanpham/sanpham.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/com_sanpham/views/sanphams/tmpl/default.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="129" column="76" selection-start-line="0" selection-start-column="0" selection-end-line="161" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#div#3;n#div#2;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#4;n#div#2;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#li#0;n#ul#0;n#div#5;n#div#2;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#li#1;n#ul#0;n#div#5;n#div#2;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#6;n#div#2;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#figure#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#6;n#div#2;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#div#6;n#div#2;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#2;n#div#0;n#div#6;n#div#2;n#div#0;n#!!top" expanded="true" />
-            <marker date="1474104570087" expanded="true" signature="7635:7768" ph="..." />
-            <marker date="1474104570087" expanded="true" signature="7805:7962" ph="..." />
-            <marker date="1474104570087" expanded="true" signature="7909:7939" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/com_gocsangtao/views/gocsangtao/view.html.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -1908,10 +1474,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_sanpham/sanpham.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/includes/kentlib.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="45" column="41" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="41" />
+        <state relative-caret-position="143">
+          <caret line="88" column="5" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
           <folding>
             <marker date="1474104265112" expanded="true" signature="694:739" ph="SELECT * FRO... ikts_categories" />
             <marker date="1474104265112" expanded="true" signature="1009:1018" ph="SELECT * fro... " />
@@ -1930,21 +1504,171 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="174" column="23" selection-start-line="174" selection-start-column="23" selection-end-line="174" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/Styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="1658" column="30" selection-start-line="1658" selection-start-column="30" selection-end-line="1658" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/videobox/youtube/youtube.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="43" column="103" selection-start-line="43" selection-start-column="86" selection-end-line="43" selection-end-column="103" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/content/osyoutube/include.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/content/osyoutube/osyoutube.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="122" column="65" selection-start-line="122" selection-start-column="65" selection-end-line="122" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_sanpham/views/sanphams/tmpl/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1333">
+          <caret line="30" column="6" selection-start-line="20" selection-start-column="4" selection-end-line="30" selection-end-column="6" />
+          <folding>
+            <element signature="n#div#3;n#div#2;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#2;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#div#2;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#figure#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#6;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#div#6;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#2;n#div#0;n#div#6;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <marker date="1474110603822" expanded="true" signature="2124:2142" ph="..." />
+            <marker date="1474110603822" expanded="true" signature="2635:2842" ph="..." />
+            <marker date="1474110603822" expanded="true" signature="2740:2827" ph="..." />
+            <marker date="1474110603822" expanded="true" signature="2920:3341" ph="..." />
+            <marker date="1474110603822" expanded="true" signature="3003:3087" ph="..." />
+            <marker date="1474110603822" expanded="true" signature="3139:3159" ph="..." />
+            <marker date="1474110603822" expanded="true" signature="3262:3326" ph="..." />
+            <marker date="1474110603822" expanded="true" signature="3363:3374" ph="..." />
+            <marker date="1474110603822" expanded="true" signature="3438:3458" ph="..." />
+            <marker date="1474110603822" expanded="true" signature="3637:3704" ph="..." />
+            <marker date="1474110603822" expanded="true" signature="3898:4916" ph="..." />
+            <marker date="1474110603822" expanded="true" signature="3965:4901" ph="..." />
+            <marker date="1474110603822" expanded="true" signature="4388:4834" ph="..." />
+            <marker date="1474110603822" expanded="true" signature="4438:4672" ph="..." />
+            <marker date="1474110603822" expanded="true" signature="4531:4613" ph="..." />
+            <marker date="1474110603822" expanded="true" signature="4700:4739" ph="..." />
+            <marker date="1474110603822" expanded="true" signature="4782:4809" ph="..." />
+            <marker date="1474110603822" expanded="true" signature="5140:5613" ph="..." />
+            <marker date="1474110603822" expanded="true" signature="5206:5613" ph="..." />
+            <marker date="1474110603822" expanded="true" signature="5301:5613" ph="..." />
+            <marker date="1474110603822" expanded="true" signature="5381:5613" ph="..." />
+            <marker date="1474110603822" expanded="true" signature="5976:5994" ph="..." />
+            <marker date="1474110603822" expanded="true" signature="6156:6178" ph="..." />
+            <marker date="1474110603822" expanded="true" signature="6543:6676" ph="..." />
+            <marker date="1474110603822" expanded="true" signature="6713:6870" ph="..." />
+            <marker date="1474110603822" expanded="true" signature="6817:6847" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/inkythuatso/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/inkythuatso/html/mod_breadcrumbs/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+          <folding>
+            <element signature="e#6#244#0#PHP" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
+            <marker date="1474109110785" expanded="true" signature="925:935" ph="..." />
+            <marker date="1474109110785" expanded="true" signature="1480:1490" ph="..." />
+            <marker date="1474109110785" expanded="true" signature="1659:1669" ph="..." />
+            <marker date="1474109110785" expanded="true" signature="1841:1851" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.elastislide.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="529" column="18" selection-start-line="529" selection-start-column="8" selection-end-line="529" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/content/osyoutube/library/Free/Embed.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/inkythuatso/html/com_content/featured/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="88" column="386" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="386" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#iframe#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
+            <element signature="n#li#2;n#ul#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
+            <element signature="n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
+            <element signature="n#li#4;n#ul#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
+            <element signature="n#li#5;n#ul#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#5;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#5;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/components/com_gocsangtao/views/gocsangtao/tmpl/default.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+        <state relative-caret-position="201">
+          <caret line="48" column="29" selection-start-line="45" selection-start-column="27" selection-end-line="48" selection-end-column="29" />
           <folding>
             <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#!!top" expanded="true" />
             <element signature="n#div#3;n#div#2;n#div#0;n#!!top" expanded="false" />
             <element signature="n#div#4;n#div#2;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#li#0;n#ul#0;n#div#5;n#div#2;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#li#1;n#ul#0;n#div#5;n#div#2;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#6;n#div#2;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#figure#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#6;n#div#2;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#div#6;n#div#2;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#2;n#div#0;n#div#6;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#5;n#div#2;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#5;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#5;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#figure#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#5;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#5;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#div#5;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#2;n#div#0;n#div#5;n#div#2;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/inkythuatso/html/com_content/article/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+          <folding>
+            <marker date="1474125847954" expanded="true" signature="1670:1986" ph="..." />
           </folding>
         </state>
       </provider>

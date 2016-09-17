@@ -166,3 +166,11 @@
     display:block;
     height: auto !important;
 }
+
+.menu_left ul li a:hover {
+    color: #733D0A !important;
+}
+.menu_left ul li a.active {
+    color: #733D0A !important;
+    font-weight:bolder;
+}

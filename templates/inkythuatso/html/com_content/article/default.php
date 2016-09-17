@@ -42,8 +42,13 @@ $image_banner = JKentlib::getCategoryImage(20);
             <div class="menu_left clearfix col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="title borderbottom00a651 paddingbottom_12 paddingtop_10"><?php echo $category_info->title; ?></div>
                 <ul>
-                    <?php foreach($artiles_cat as $obj) { ?>
-                    <li><a href="<?php echo JRoute::_(ContentHelperRoute::getArticleRoute(  $obj->id,  $category_info->id ));?>"><?php echo $obj->title;?></a></li>
+                    <?php foreach($artiles_cat as $obj) {
+                        $class = '';
+                        if ($this->item->id == $obj->id) {
+                            $class = 'active';
+                        }
+                        ?>
+                    <li><a class="<?php echo $class;?>" href="<?php echo JRoute::_(ContentHelperRoute::getArticleRoute(  $obj->id,  $category_info->id ));?>"><?php echo $obj->title;?></a></li>
                     <?php } ?>
                 </ul>
             </div>

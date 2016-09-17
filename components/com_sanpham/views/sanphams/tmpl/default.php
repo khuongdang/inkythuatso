@@ -47,8 +47,12 @@ $product_cat_id = $article->catid;
                 <?php foreach ($product_items as $product_item) {
                     $product_item_title = $product_item->title;
                     $link = JRoute::_('index.php?option=com_sanpham&view=sanphams&id=' . $product_item->id);
+                    $class = '';
+                    if ($article->id == $product_item->id) {
+                        $class = 'active';
+                    }
                 ?>
-                <li><a title="<?php echo $product_item_title;?>" href="<?php echo $link;?>" class="link" style="border-width: 0px;"><?php echo $product_item_title;?></a></li>
+                <li><a title="<?php echo $product_item_title;?>" href="<?php echo $link;?>" class="<?php echo $class;?> link" style="border-width: 0px;"><?php echo $product_item_title;?></a></li>
                 <?php }?>
             </ul>
                 <?php } ?>
@@ -58,10 +62,12 @@ $product_cat_id = $article->catid;
     </div>
     <div class="product_detail col-lg-9 col-md-9 col-xs-12">
         <span id="MainContent_Lb_ProductTitle" class="title col-lg-12 col-md-12 col-xs-12"><?php echo $product_title;?></span>
+        <?php if ($product_image) { ?>
         <div class="image col-lg-6 ol-md-6 col-xs-12">
             <img id="MainContent_Img_Image" title="<?php echo $product_title;?>" class="img-responsive"
                  src="<?php echo $product_image;?>" alt="<?php echo $product_title;?>">
         </div>
+        <?php } ?>
         <div class="form_info col-lg-6 ol-md-6 col-xs-12">
             <h1 id="DetailName" class="name" title="<?php echo $product_title;?>"><span id="MainContent_Lb_Name"><?php echo $product_title;?></span>
             </h1>
@@ -85,50 +91,40 @@ $product_cat_id = $article->catid;
                 <?php echo $product_content; ?>
             </div>
         </div>
+        <?php
+        $goc_sang_tao = JKentlib::getArticleFromCategory(23);
+        if ($goc_sang_tao) { ?>
         <div class="creation_area_list col-lg-12 col-md-12 col-xs-12">
             <div class="title">GÓC SÁNG TẠO</div>
             <ul>
-
+                <?php foreach ($goc_sang_tao as $obj) {
+                    $title = $obj->title;
+                    $link = JRoute::_('index.php?option=com_sanpham&view=sanphams&id=' . $obj->id);
+                    $image = json_decode($obj->images)->image_intro;
+                    $intro = $obj->introtext;
+                ?>
                 <li class="col-lg-12">
-                    <a href="/chi-tiet-sang-tao/ep-kim/5/">
-									<span class="image col-lg-2">
-										<img class="img-responsive"
-                                             alt="ÉP KIM                                                                                                                                                                                                                                                         "
-                                             title="Tạo bề mặt ánh kim đủ màu, nổi bật cho logo, chữ...trên Namecard.
-Thời gian: 2-3 ngày.
- " src="/ImgPro/ep-kim.jpg">
-									</span>
-                        <span
-                            class="name">ÉP KIM                                                                                                                                                                                                                                                         </span>
-                        <span class="summary">Tạo bề mặt ánh kim đủ màu, nổi bật cho logo, chữ...trên Namecard.
-Thời gian: 2-3 ngày.
- </span>
+                    <a href="<?php echo $link; ?>">
+                    <span class="image col-lg-2">
+                    <?php if ($image) { ?>
+                    <img class="img-responsive" alt="<?php echo $title;?>" title="<?php echo $title;?>" src="<?php echo $image;?>">
+                    <?php } ?>
+                    </span>
+                    <span class="name"><?php echo $title;?></span>
+                    <span class="summary"><?php echo $intro;?></span>
                     </a>
                 </li>
-
-                <li class="col-lg-12">
-                    <a href="/chi-tiet-sang-tao/can-mang-mo-bong/10/">
-									<span class="image col-lg-2">
-										<img class="img-responsive"
-                                             alt="CÁN MÀNG MỜ - BÓNG                                                                                                                                                                                                                                             "
-                                             title="Phủ một lớp polyme mờ/ bóng lên bề mặt Poster, Folder...
-Thời gian: 2-3 ngày" src="/ImgPro/can-mang-mo-hoac-bong.jpg">
-									</span>
-                        <span
-                            class="name">CÁN MÀNG MỜ - BÓNG                                                                                                                                                                                                                                             </span>
-                        <span class="summary">Phủ một lớp polyme mờ/ bóng lên bề mặt Poster, Folder...
-Thời gian: 2-3 ngày</span>
-                    </a>
-                </li>
-
+                <?php } ?>
             </ul>
         </div>
+        <?php } ?>
+        <?php
+        $other_article = JKentlib::getArticleFromCategory($article->catid, $article->id)
+        ?>
+        <?php if ($other_article) { ?>
         <div class="col-lg-12 col-md-12 col-xs-12">
             <div id="carousel-other" class="es-carousel-wrapper">
                 <h1 class="title">Sản phẩm khác</h1>
-                <?php
-                $other_article = JKentlib::getArticleFromCategory($article->catid, $product_cat_id)
-                ?>
                 <div class="es-carousel">
                     <ul class="items" style="width: 6100px; margin-left: 0px;">
                         <?php
@@ -157,6 +153,7 @@ Thời gian: 2-3 ngày</span>
                 </div>
             </div>
         </div>
+        <?php }?>
     </div>
 
 </div>

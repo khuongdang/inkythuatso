@@ -38,6 +38,9 @@ $id = (int)JRequest::getVar('id');
                     echo '<li class="last"><a href="javascript:void(0);" style="z-index:8;">'.$title.'</a></li>';
                 }
             break;
+            case "com_gocsangtao":
+                echo '<li class="last"><a href="javascript:void(0);" style="z-index:9;">Góc sáng tạo</a></li>';
+            break;
         }
         ?>
     </ul>
