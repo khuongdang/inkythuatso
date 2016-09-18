@@ -142,29 +142,40 @@ $menu_list = JKentlib::getMainMenu(8);
             <p class="footer-links">
                 <?php
                 foreach ($menu_list as $menuitem) {
+                    $url = JRoute::_($menuitem->link . '&Itemid=' . $menuitem->id);
                 ?>
-                <a href="#"><?php echo $menuitem->title . ' | ';?></a>
+                <a href="<?php echo $url; ?>"><?php echo $menuitem->title . ' | ';?></a>
                 <?php } ?>
             </p>
 
-            <p class="footer-company-name">Company Name &copy; 2015</p>
+            <p class="footer-company-name">Copy right by Tung Khoa &copy; <?php echo date('Y'); ?></p>
         </div>
 
+        <?php
+        $db = JFactory::getDbo();
+        $query = $db->getQuery(true)
+            ->select('*')
+            ->from('#__contact_details')
+            ->where($db->quoteName('catid') . ' = ' . 4);
+
+        $db->setQuery($query);
+        $contact = $db->loadObject();
+        ?>
         <div class="footer-center">
 
             <div>
                 <i class="fa fa-map-marker"></i>
-                <p><span>21 Revolution Street</span> Paris, France</p>
+                <p><?php echo $contact->address;?></p>
             </div>
 
             <div>
                 <i class="fa fa-phone"></i>
-                <p>+1 555 123456</p>
+                <p><?php echo $contact->telephone;?></p>
             </div>
 
             <div>
                 <i class="fa fa-envelope"></i>
-                <p><a href="mailto:support@company.com">support@company.com</a></p>
+                <p><a href="mailto:<?php echo $contact->email_to;?>"><?php echo $contact->email_to;?></a></p>
             </div>
 
         </div>
@@ -172,8 +183,8 @@ $menu_list = JKentlib::getMainMenu(8);
         <div class="footer-right">
 
             <p class="footer-company-about">
-                <span>About the company</span>
-                Lorem ipsum dolor sit amet, consectateur adispicing elit. Fusce euismod convallis velit, eu auctor lacus vehicula sit amet.
+                <span>Về chúng tôi</span>
+               <?php echo $contact->misc; ?>
             </p>
 
             <div class="footer-icons">
@@ -186,8 +197,38 @@ $menu_list = JKentlib::getMainMenu(8);
             </div>
 
         </div>
+        <script type="text/javascript">
+            jQuery(document).ready(function($){
+                // browser window scroll (in pixels) after which the "back to top" link is shown
+                var offset = 300,
+                    //browser window scroll (in pixels) after which the "back to top" link opacity is reduced
+                    offset_opacity = 1200,
+                    //duration of the top scrolling animation (in ms)
+                    scroll_top_duration = 700,
+                    //grab the "back to top" link
+                    $back_to_top = $('.cd-top');
 
+                //hide or show the "back to top" link
+                $(window).scroll(function(){
+                    ( $(this).scrollTop() > offset ) ? $back_to_top.addClass('cd-is-visible') : $back_to_top.removeClass('cd-is-visible cd-fade-out');
+                    if( $(this).scrollTop() > offset_opacity ) {
+                        $back_to_top.addClass('cd-fade-out');
+                    }
+                });
+
+                //smooth scroll to top
+                $back_to_top.on('click', function(event){
+                    event.preventDefault();
+                    $('body,html').animate({
+                            scrollTop: 0 ,
+                        }, scroll_top_duration
+                    );
+                });
+
+            });
+
+        </script>
     </footer>
-
+    <a href="#0" class="cd-top">Top</a>
 </body>
 </html>

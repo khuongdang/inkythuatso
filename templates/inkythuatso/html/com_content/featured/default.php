@@ -14,7 +14,6 @@ defined('_JEXEC') or die;
             <!-- Jssor Slider Begin -->
             <!-- You can move inline styles to css file or css block. -->
 
-
             <div id="slider1_container" class="col-lg-12 col-md-12 col-xs-12" style="height: 387px; overflow: hidden; width: 758px;">
                 <!-- Loading Screen -->
 
@@ -150,215 +149,17 @@ defined('_JEXEC') or die;
 </div>
 
 <div class="mainwidth container ">
-    <div id="carousel-Top1" class="es-carousel-wrapper ">
-        <h1 class="title "><a href="javascript:void(0); title="In offset">In UV / Xem thêm </a>
-        </h1>
-        <div class="es-carousel col-lg-12">
-            <ul class="items" style="width: 4861px; margin-left: 0px;">
-
-                <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                    <a href="javascript:void(0);" class="link" style="border-width: 0px;" title="IN BĂNG RÔN, BANNER">
-                        <figure class="p3">
-                            <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/in-standy-4.jpg)"></span>
-                            <h2 class="name">IN BĂNG RÔN, BANNER</h2>
-                        </figure>
-                    </a>
-                </li>
-
-                <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                    <a href="javascript:void(0);" class="link" style="border-width: 0px;" title="IN PHIẾU BẢO HÀNH">
-                        <figure class="p3">
-                            <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/in-phieu-bao-hanh-4.jpg)"></span>
-                            <h2 class="name">IN PHIẾU BẢO HÀNH</h2>
-                        </figure>
-                    </a>
-                </li>
-
-                <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                    <a href="javascript:void(0);" class="link" style="border-width: 0px;" title="IN BIỂU MẪU, PHIẾU THU, PHIẾU CHI">
-                        <figure class="p3">
-                            <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/in-giay-carbonless-6.jpg)"></span>
-                            <h2 class="name">IN BIỂU MẪU, PHIẾU THU, PHIẾU CHI</h2>
-                        </figure>
-                    </a>
-                </li>
-
-                <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                    <a href="javascript:void(0);" class="link" style="border-width: 0px;" title="IN TÚI GIẤY">
-                        <figure class="p3">
-                            <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/tui-tui-giay-dep-6.jpg)"></span>
-                            <h2 class="name">IN TÚI GIẤY</h2>
-                        </figure>
-                    </a>
-                </li>
-
-                <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                    <a href="javascript:void(0);" class="link" style="border-width: 0px;" title="IN VÉ - TICKETS">
-                        <figure class="p3">
-                            <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/ve-xem-ca-nhac.jpg)"></span>
-                            <h2 class="name">IN VÉ - TICKETS</h2>
-                        </figure>
-                    </a>
-                </li>
-
-                <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                    <a href="javascript:void(0);" class="link" style="border-width: 0px;" title="IN MENU - THỰC ĐƠN">
-                        <figure class="p3">
-                            <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/menu-nha-hang-6.jpg)"></span>
-                            <h2 class="name">IN MENU - THỰC ĐƠN</h2>
-                        </figure>
-                    </a>
-                </li>
-
-                <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                    <a href="javascript:void(0);" class="link" style="border-width: 0px;" title="MÁC SẢN PHẨM">
-                        <figure class="p3">
-                            <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/mac-san-pham-11.jpg)"></span>
-                            <h2 class="name">MÁC SẢN PHẨM</h2>
-                        </figure>
-                    </a>
-                </li>
-
-                <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                    <a href="javascript:void(0);" class="link" style="border-width: 0px;" title="IN TÚI GIẤY KRAFT">
-                        <figure class="p3">
-                            <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/in-tui-giay-kraft-01.jpg)"></span>
-                            <h2 class="name">IN TÚI GIẤY KRAFT</h2>
-                        </figure>
-                    </a>
-                </li>
-
-                <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                    <a href="javascript:void(0);" class="link" style="border-width: 0px;" title="PHIẾU QUÀ TẶNG">
-                        <figure class="p3">
-                            <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/gif-vourcher-gia-re-4.jpg)"></span>
-                            <h2 class="name">PHIẾU QUÀ TẶNG</h2>
-                        </figure>
-                    </a>
-                </li>
-
-                <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                    <a href="javascript:void(0);" class="link" style="border-width: 0px;" title="IN CATALOGUE">
-                        <figure class="p3">
-                            <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/in-catalogue-1.jpg)"></span>
-                            <h2 class="name">IN CATALOGUE</h2>
-                        </figure>
-                    </a>
-                </li>
-
-                <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                    <a href="javascript:void(0);" class="link" style="border-width: 0px;" title="IN TỜ RƠI">
-                        <figure class="p3">
-                            <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/in-to-roi.jpg)"></span>
-                            <h2 class="name">IN TỜ RƠI</h2>
-                        </figure>
-                    </a>
-                </li>
-
-                <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                    <a href="javascript:void(0);" class="link" style="border-width: 0px;" title="IN TỜ RƠI, TỜ GẤP">
-                        <figure class="p3">
-                            <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/to-roi-gap-3-2.jpg)"></span>
-                            <h2 class="name">IN TỜ RƠI, TỜ GẤP</h2>
-                        </figure>
-                    </a>
-                </li>
-
-                <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                    <a href="javascript:void(0);" class="link" style="border-width: 0px;" title="GIẤY NOTE - GIẤY GHI CHÚ">
-                        <figure class="p3">
-                            <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/in-giay-note-1.jpg)"></span>
-                            <h2 class="name">GIẤY NOTE - GIẤY GHI CHÚ</h2>
-                        </figure>
-                    </a>
-                </li>
-
-                <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                    <a href="javascript:void(0);" class="link" style="border-width: 0px;" title="IN SỔ NOTE, SỔ GHI CHÚ">
-                        <figure class="p3">
-                            <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/so-note-2.jpg)"></span>
-                            <h2 class="name">IN SỔ NOTE, SỔ GHI CHÚ</h2>
-                        </figure>
-                    </a>
-                </li>
-
-                <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                    <a href="javascript:void(0);" class="link" style="border-width: 0px;" title="IN BAO THƯ - IN PHONG BÌ">
-                        <figure class="p3">
-                            <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/bao-thu-nho.jpg)"></span>
-                            <h2 class="name">IN BAO THƯ - IN PHONG BÌ</h2>
-                        </figure>
-                    </a>
-                </li>
-
-                <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                    <a href="javascript:void(0);" class="link" style="border-width: 0px;" title="IN FOLDER-BÌA HỒ SƠ">
-                        <figure class="p3">
-                            <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/in-folder.jpg)"></span>
-                            <h2 class="name">IN FOLDER-BÌA HỒ SƠ</h2>
-                        </figure>
-                    </a>
-                </li>
-
-                <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                    <a href="javascript:void(0);" class="link" style="border-width: 0px;" title="IN GIẤY TIÊU ĐỀ - LETTERHEAD">
-                        <figure class="p3">
-                            <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/giay-tieu-de-2.jpg)"></span>
-                            <h2 class="name">IN GIẤY TIÊU ĐỀ - LETTERHEAD</h2>
-                        </figure>
-                    </a>
-                </li>
-
-                <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                    <a href="javascript:void(0);" class="link" style="border-width: 0px;" title="DANH THIẾP ÉP KIM">
-                        <figure class="p3">
-                            <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/danh-thiep-ep-kim-1.jpg)"></span>
-                            <h2 class="name">DANH THIẾP ÉP KIM</h2>
-                        </figure>
-                    </a>
-                </li>
-
-                <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                    <a href="javascript:void(0);" class="link" style="border-width: 0px;" title="DANH THIẾP GIẤY MỸ THUẬT">
-                        <figure class="p3">
-                            <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/danh-thiep-giay-my-thuat.jpg)"></span>
-                            <h2 class="name">DANH THIẾP GIẤY MỸ THUẬT</h2>
-                        </figure>
-                    </a>
-                </li>
-
-                <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                    <a href="javascript:void(0);" class="link" style="border-width: 0px;" title="IN DANH THIẾP BO GÓC">
-                        <figure class="p3">
-                            <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/Admin_20102015113637478.png)"></span>
-                            <h2 class="name">IN DANH THIẾP BO GÓC</h2>
-                        </figure>
-                    </a>
-                </li>
-
-                <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; visibility: hidden; width: 215px;">
-                    <a href="javascript:void(0);" class="link" style="border-width: 0px;">
-                        <figure class="p3">
-                                        <span class="img-box">
-											<img class="img-responsive" src="images/Inofset_4.jpg"
-                                                 alt="TKC">
-										</span>
-                            <span class="name">Catalogue</span>
-                        </figure>
-                    </a>
-                </li>
-            </ul>
-        </div>
-
-
-        <div class="es-nav">
-            <span class="es-nav-prev" style="display: none;"></span><span class="es-nav-next"></span>
-        </div>
-        <div class="es-nav"><span class="es-nav-prev" style="display: none;"></span><span class="es-nav-next" style="display: block;"></span>
-        </div>
-        <div class="es-nav"><span class="es-nav-prev" style="display: none;"></span><span class="es-nav-next"></span>
-        </div>
-    </div>
+    <?php
+    $document = JFactory::getDocument();
+    $params = array();
+    $renderer = $document->loadRenderer('module');
+    $position = 'block_product_1';
+    $contents = '';
+    foreach (JModuleHelper::getModules($position) as $mod) {
+        $contents .= $renderer->render($mod, $params);
+    }
+    echo $contents;
+    ?>
 </div>
 
 <div class="margin_bottom_12 clearfix"></div>
@@ -381,164 +182,32 @@ defined('_JEXEC') or die;
 </div>
 <div class="container-fluid row margin_bottom_30">
     <div class="blog_bg clearfix">
-
         <div class="mainwidth container">
-            <div id="carousel-1" class="es-carousel-wrapper">
-                <h1 class="title">
-                    <a href="javascript:void(0);" title="In decal - in decal dạng cuộn">In Dạng Phẳng / Xem thêm </a></h1>
-                <div class="es-carousel col-lg-12">
-                    <ul class="items" style="width: 1396px; margin-left: 0px;">
-
-                        <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                            <a href="javascript:void(0);" class="link" style="border-width: 0px;">
-                                <figure class="p3">
-                                    <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/in-nhan-binh-nuoc-loc-1.jpg)"></span>
-                                    <h2 class="name">IN NHÃN NƯỚC ĐÓNG BÌNH</h2>
-                                </figure>
-                            </a>
-                        </li>
-
-                        <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                            <a href="javascript:void(0);" class="link" style="border-width: 0px;">
-                                <figure class="p3">
-                                    <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/in-decal-nhua-4.jpg)"></span>
-                                    <h2 class="name">IN DECAL NHỰA</h2>
-                                </figure>
-                            </a>
-                        </li>
-
-                        <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                            <a href="javascript:void(0);" class="link" style="border-width: 0px;">
-                                <figure class="p3">
-                                    <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/nhan-decal-dang-cuon-5.jpg)"></span>
-                                    <h2 class="name">IN NHÃN DECAL CUỘN</h2>
-                                </figure>
-                            </a>
-                        </li>
-
-                        <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                            <a href="javascript:void(0);" class="link" style="border-width: 0px;">
-                                <figure class="p3">
-                                    <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/in-ma-vach-decal.jpg)"></span>
-                                    <h2 class="name">IN MÃ VẠCH DẠNG DECAL CUỘN</h2>
-                                </figure>
-                            </a>
-                        </li>
-
-                        <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                            <a href="javascript:void(0);" class="link" style="border-width: 0px;">
-                                <figure class="p3">
-                                    <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/nhan-decal-4.jpg)"></span>
-                                    <h2 class="name">IN NHÃN DECAL</h2>
-                                </figure>
-                            </a>
-                        </li>
-
-                        <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; visibility: hidden; width: 215px;">
-                            <a href="javascript:void(0);" class="link" style="border-width: 0px;">
-                                <figure class="p3">
-                                        <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/Admin_99201519397964.png)">
-													<img class="img-responsive"
-                                                         src="images/Inofset_4.jpg" alt="TKC">
-												</span>
-                                    <h2 class="name">Catalogue</h2>
-                                </figure>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="es-nav">
-                    <span class="es-nav-prev" style="display: none;"></span><span class="es-nav-next"></span>
-                </div>
-                <div class="es-nav"><span class="es-nav-prev" style="display: none;"></span><span class="es-nav-next" style="display: block;"></span>
-                </div>
-                <div class="es-nav"><span class="es-nav-prev" style="display: none;"></span><span class="es-nav-next"></span>
-                </div>
-            </div>
+            <?php
+            $document = JFactory::getDocument();
+            $params = array();
+            $renderer = $document->loadRenderer('module');
+            $position = 'block_product_2';
+            $contents = '';
+            foreach (JModuleHelper::getModules($position) as $mod) {
+                $contents .= $renderer->render($mod, $params);
+            }
+            echo $contents;
+            ?>
         </div>
 
         <div class="mainwidth container">
-            <div id="carousel-2" class="es-carousel-wrapper">
-                <h1 class="title"><a href="javascript:void(0);" title="In bao bì - hộp - thùng carton">In đa chất liệu / Xem thêm</a></h1>
-                <input type="hidden" name="ctl00$MainContent$Rpt_ProductGroupMain$ctl01$Hdf_ProGroupID" id="MainContent_Rpt_ProductGroupMain_Hdf_ProGroupID_1" value="3">
-                <div class="es-carousel col-lg-12">
-                    <ul class="items" style="width: 1627px; margin-left: 0px;">
-
-                        <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                            <a href="javascript:void(0);7" class="link" style="border-width: 0px;">
-                                <figure class="p3">
-                                    <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/hop-giay-dung-banh-3.jpg)"></span>
-                                    <h2 class="name">HỘP GIẤY CARTON</h2>
-                                </figure>
-                            </a>
-                        </li>
-
-                        <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                            <a href="javascript:void(0);" class="link" style="border-width: 0px;">
-                                <figure class="p3">
-                                    <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/hop-giay-dung-banh-1.jpg)"></span>
-                                    <h2 class="name">HỘP BÁNH TRUNG THU</h2>
-                                </figure>
-                            </a>
-                        </li>
-
-                        <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                            <a href="javascript:void(0);" class="link" style="border-width: 0px;">
-                                <figure class="p3">
-                                    <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/hop-giay-kraf.jpg)"></span>
-                                    <h2 class="name">HỘP GIẤY KRAFT</h2>
-                                </figure>
-                            </a>
-                        </li>
-
-                        <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                            <a href="javascript:void(0);" class="link" style="border-width: 0px;">
-                                <figure class="p3">
-                                    <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/in-hop-giay-1.jpg)"></span>
-                                    <h2 class="name">HỘP ĐỰNG THUỐC TÂY</h2>
-                                </figure>
-                            </a>
-                        </li>
-
-                        <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                            <a href="javascript:void(0);" class="link" style="border-width: 0px;">
-                                <figure class="p3">
-                                    <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/in-hop-qua-tang-1.jpg)"></span>
-                                    <h2 class="name">HỘP QUÀ TẶNG</h2>
-                                </figure>
-                            </a>
-                        </li>
-
-                        <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
-                            <a href="javascript:void(0);" class="link" style="border-width: 0px;">
-                                <figure class="p3">
-                                    <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/hop-giay-dung-banh-2.jpg)"></span>
-                                    <h2 class="name">HỘP ĐỰNG BÁNH</h2>
-                                </figure>
-                            </a>
-                        </li>
-
-                        <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; visibility: hidden; width: 215px;">
-                            <a href="javascript:void(0);" class="link" style="border-width: 0px;">
-                                <figure class="p3">
-                                        <span class="img-box" style="background-image: url(http://caonguyenxanh.com.vn/ImgPro/Admin_992015194339631.png)">
-													<img class="img-responsive"
-                                                         src="images/Inofset_4.jpg" alt="TKC">
-												</span>
-                                    <h2 class="name">Catalogue</h2>
-                                </figure>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="es-nav">
-                    <span class="es-nav-prev" style="display: none;"></span><span class="es-nav-next"></span>
-                </div>
-                <div class="es-nav"><span class="es-nav-prev" style="display: none;"></span><span class="es-nav-next" style="display: block;"></span>
-                </div>
-                <div class="es-nav"><span class="es-nav-prev" style="display: none;"></span><span class="es-nav-next"></span>
-                </div>
-            </div>
+            <?php
+            $document = JFactory::getDocument();
+            $params = array();
+            $renderer = $document->loadRenderer('module');
+            $position = 'block_product_3';
+            $contents = '';
+            foreach (JModuleHelper::getModules($position) as $mod) {
+                $contents .= $renderer->render($mod, $params);
+            }
+            echo $contents;
+            ?>
         </div>
     </div>
 </div>

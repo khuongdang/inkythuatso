@@ -1,5 +1,4 @@
 .footer-distributed{
-    background-color: #2C231B;
     box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
     box-sizing: border-box;
     width: 100%;
@@ -7,6 +6,14 @@
     font-size: 13px;
     font-weight: bold;
     padding: 55px 50px;
+    /* For Safari 5.1 to 6.0 */
+    background: -webkit-linear-gradient(top, #2F261D, #2E251C);
+    /* For Opera 11.1 to 12.0 */
+    background: -o-linear-gradient(top, #2F261D, #2E251C);
+    /* For Fx 3.6 to 15 */
+    background: -moz-linear-gradient(top, #2F261D, #2E251C);
+    /* Standard syntax */
+    background: linear-gradient(to bottom, #2F261D, #2E251C);
 }
 
 .footer-distributed .footer-left,
@@ -95,7 +102,7 @@
 }
 
 .footer-distributed .footer-center p a{
-    color:  #5383d3;
+    color:  #ccc;
     text-decoration: none;;
 }
 
@@ -173,4 +180,57 @@
 .menu_left ul li a.active {
     color: #733D0A !important;
     font-weight:bolder;
+}
+
+
+.cd-top {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    position: fixed;
+    bottom: 40px;
+    right: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+    /* image replacement properties */
+    overflow: hidden;
+    text-indent: 100%;
+    white-space: nowrap;
+    background: rgba(115, 61, 10, 0.8) url(../images/cd-top-arrow.svg) no-repeat center 50%;
+    visibility: hidden;
+    opacity: 0;
+    -webkit-transition: opacity .3s 0s, visibility 0s .3s;
+    -moz-transition: opacity .3s 0s, visibility 0s .3s;
+    transition: opacity .3s 0s, visibility 0s .3s;
+}
+.cd-top.cd-is-visible, .cd-top.cd-fade-out, .no-touch .cd-top:hover {
+    -webkit-transition: opacity .3s 0s, visibility 0s 0s;
+    -moz-transition: opacity .3s 0s, visibility 0s 0s;
+    transition: opacity .3s 0s, visibility 0s 0s;
+}
+.cd-top.cd-is-visible {
+    /* the button becomes visible */
+    visibility: visible;
+    opacity: 1;
+}
+.cd-top.cd-fade-out {
+    /* if the user keeps scrolling down, the button is out of focus and becomes less visible */
+    opacity: .5;
+}
+.no-touch .cd-top:hover {
+    background-color: #e86256;
+    opacity: 1;
+}
+@media only screen and (min-width: 768px) {
+    .cd-top {
+        right: 20px;
+        bottom: 20px;
+    }
+}
+@media only screen and (min-width: 1024px) {
+    .cd-top {
+        height: 50px;
+        width: 50px;
+        right: 30px;
+        bottom: 30px;
+    }
 }

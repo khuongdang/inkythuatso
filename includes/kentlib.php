@@ -51,7 +51,7 @@ final class JKentlib {
     {
         if (isset($cat_id) && $cat_id != 0) {
             $db = JFactory::getDbo();
-            $query = "SELECT * FROM #__categories WHERE parent_id = $cat_id";
+            $query = "SELECT * FROM #__categories WHERE parent_id = $cat_id ORDER BY lft ASC";
             $db->setQuery($query);
             return $db->loadObjectList();
         }

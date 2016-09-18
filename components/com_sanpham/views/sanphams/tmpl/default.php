@@ -99,7 +99,7 @@ $product_cat_id = $article->catid;
             <ul>
                 <?php foreach ($goc_sang_tao as $obj) {
                     $title = $obj->title;
-                    $link = JRoute::_('index.php?option=com_sanpham&view=sanphams&id=' . $obj->id);
+                    $link = JRoute::_('index.php?option=com_gocsangtao&view=gocsangtao&id=' . $obj->id);
                     $image = json_decode($obj->images)->image_intro;
                     $intro = $obj->introtext;
                 ?>
