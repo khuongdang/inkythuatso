@@ -16,7 +16,7 @@ jimport('joomla.application.component.modellist');
  *
  * @since  1.6
  */
-class SanphamModelSanphams extends JModelList
+class SanphamModelSanpham extends JModelList
 {
 	/**
 	 * Constructor.

@@ -39,7 +39,7 @@ class SanphamController extends JControllerLegacy
             $app->input->set('limitstart', 0);
         }
 
-        $view = $app->input->getCmd('view', 'sanphams');
+        $view = $app->input->getCmd('view', 'sanpham');
 		$app->input->set('view', $view);
 
 		parent::display($cachable, $urlparams);

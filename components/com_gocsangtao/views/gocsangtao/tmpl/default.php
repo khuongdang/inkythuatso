@@ -48,7 +48,7 @@ $product_cat_id = $article->catid;
                                 $class = 'active';
                             }
                             $product_item_title = $product_item->title;
-                            $link = JRoute::_('index.php?option=com_sanpham&view=sanphams&id=' . $product_item->id);
+                            $link = JRoute::_('index.php?option=com_gocsangtao&view=gocsangtao&id=' . $product_item->id);
                             ?>
                             <li><a title="<?php echo $product_item_title;?>" href="<?php echo $link;?>" class="<?php echo $class;?> link" style="border-width: 0px;"><?php echo $product_item_title;?></a></li>
                         <?php }?>

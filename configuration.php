@@ -14,13 +14,13 @@ class JConfig {
 	public $dbtype = 'mysqli';
 	public $host = 'localhost';
 	public $user = 'root';
-	public $password = '';
+	public $password = 'root';
 	public $db = 'inkythuatso';
 	public $dbprefix = 'ikts_';
 	public $live_site = '';
 	public $secret = 'kbZNQntzW1NI9Je8';
 	public $gzip = '0';
-	public $error_reporting = 'simple';
+	public $error_reporting = 'development';
 	public $helpurl = 'https://help.joomla.org/proxy/index.php?keyref=Help{major}{minor}:{keyref}';
 	public $ftp_host = '';
 	public $ftp_port = '';

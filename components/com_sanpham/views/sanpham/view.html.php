@@ -17,7 +17,7 @@ jimport('joomla.application.component.view');
  *
  * @since  1.6
  */
-class SanphamViewSanphams extends JViewLegacy
+class SanphamViewSanpham extends JViewLegacy
 {
 	protected $items;
 

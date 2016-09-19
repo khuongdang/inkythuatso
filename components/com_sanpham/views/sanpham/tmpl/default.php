@@ -46,7 +46,7 @@ $product_cat_id = $article->catid;
             <ul class="clearfix">
                 <?php foreach ($product_items as $product_item) {
                     $product_item_title = $product_item->title;
-                    $link = JRoute::_('index.php?option=com_sanpham&view=sanphams&id=' . $product_item->id);
+                    $link = JRoute::_('index.php?option=com_sanpham&view=sanpham&id=' . $product_item->id);
                     $class = '';
                     if ($article->id == $product_item->id) {
                         $class = 'active';
@@ -130,7 +130,7 @@ $product_cat_id = $article->catid;
                         <?php
                         foreach ($other_article as $product_item) {
                             $other_product_title = $product_item->title;
-                            $other_product_link = JRoute::_('index.php?option=com_sanpham&view=sanphams&id=' . $product_item->id);
+                            $other_product_link = JRoute::_('index.php?option=com_sanpham&view=sanpham&id=' . $product_item->id);
                             $other_product_image = json_decode($product_item->images)->image_intro;
                         ?>
                         <li style="margin-right: 16px; width: 194px;">

@@ -15,7 +15,7 @@ defined('_JEXEC') or die;
  *
  * @since  1.6
  */
-class SanphamControllerSanphams extends SanphamController
+class SanphamControllerSanpham extends SanphamController
 {
 	/**
 	 * Proxy for getModel.
@@ -28,7 +28,7 @@ class SanphamControllerSanphams extends SanphamController
 	 *
 	 * @since	1.6
 	 */
-	public function &getModel($name = 'Sanphams', $prefix = 'SanphamModel', $config = array())
+	public function &getModel($name = 'Sanpham', $prefix = 'SanphamModel', $config = array())
 	{
 		$model = parent::getModel($name, $prefix, array('ignore_request' => true));
 
