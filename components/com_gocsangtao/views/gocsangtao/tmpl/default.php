@@ -66,24 +66,26 @@ $product_cat_id = $article->catid;
         </div>
         <?php } ?>
         <div class="form_info col-lg-6 ol-md-6 col-xs-12">
-            <h1 id="DetailName" class="name" title="<?php echo $product_title;?>"><span id="MainContent_Lb_Name"><?php echo $product_title;?></span>
-            </h1>
             <div class="socialbuttonlist clearfix">
 
             </div>
+            <?php if ($product_intro) { ?>
             <span id="MainContent_Lb_Summary" class="summary col-lg-12 col-md-12 col-sm-12 col-xs-12">
               <?php echo $product_intro; ?>
             </span>
+            <?php }?>
         </div>
         <div style="clear: both"></div>
-        <div class="image_detail_list">
+        <!--<div class="image_detail_list">
             <ul>
 
 
             </ul>
-        </div>
+        </div>-->
         <div class="detail_info col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <?php if ($product_intro) { ?>
             <div class="title">Thông tin chi tiết</div>
+            <?php } ?>
             <div class="content">
                 <?php echo $product_content; ?>
             </div>

@@ -1376,7 +1376,6 @@ h2 {
     float: left;
     overflow: hidden;
     height: auto;
-    margin-bottom: 20px;
     padding-right: 0;
 }
 
@@ -1414,7 +1413,7 @@ h2 {
 .product_detail .form_info .summary {
     line-height: 170%;
     padding: 0;
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .product_detail .form_info .summary span {

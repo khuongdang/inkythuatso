@@ -56,8 +56,8 @@ class JConfig {
 	public $unicodeslugs = '0';
 	public $feed_limit = '10';
 	public $feed_email = 'none';
-	public $log_path = '/home/inkythuatso/web/inkythuatso.top/public_html/logs';
-	public $tmp_path = '/home/inkythuatso/web/inkythuatso.top/public_html/tmp';
+	public $log_path = '/Volumes/WORK-SOFT/ROOT/inkythuatso/logs';
+	public $tmp_path = '/Volumes/WORK-SOFT/ROOT/inkythuatso/tmp';
 	public $lifetime = '150';
 	public $memcache_persist = '1';
 	public $memcache_compress = '0';

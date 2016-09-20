@@ -74,9 +74,11 @@ $product_cat_id = $article->catid;
             <div class="socialbuttonlist clearfix">
 
             </div>
+            <?php if ($product_intro) { ?>
             <span id="MainContent_Lb_Summary" class="summary col-lg-12 col-md-12 col-sm-12 col-xs-12">
               <?php echo $product_intro; ?>
             </span>
+            <?php } ?>
         </div>
         <div style="clear: both"></div>
         <div class="image_detail_list">
