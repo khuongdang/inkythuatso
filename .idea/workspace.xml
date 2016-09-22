@@ -3,49 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0c44e24e-8aa0-491a-a53c-eb05af0abace" name="Default" comment="update new">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_jce/jce.xml" afterPath="$PROJECT_DIR$/administrator/components/com_jce/jce.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/manifests/libraries/allediaframework.xml" afterPath="$PROJECT_DIR$/administrator/manifests/libraries/allediaframework.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_gocsangtao/views/gocsangtao/tmpl/default.php" afterPath="$PROJECT_DIR$/components/com_gocsangtao/views/gocsangtao/tmpl/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/aggregator/dailymotion.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/aggregator/dailymotion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/aggregator/vimeo.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/aggregator/vimeo.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/aggregator/vine.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/aggregator/vine.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/aggregator/youtube.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/aggregator/youtube.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/links/joomlalinks.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/links/joomlalinks.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/extensions/mediaplayer/jceplayer.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/extensions/mediaplayer/jceplayer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/libraries/classes/editor.php" afterPath="$PROJECT_DIR$/components/com_jce/editor/libraries/classes/editor.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/imgmanager/imgmanager.xml" afterPath="$PROJECT_DIR$/components/com_jce/editor/tiny_mce/plugins/imgmanager/imgmanager.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_sanpham/views/sanpham/tmpl/default.php" afterPath="$PROJECT_DIR$/components/com_sanpham/views/sanpham/tmpl/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/configuration.php" afterPath="$PROJECT_DIR$/configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/Styles.css" afterPath="$PROJECT_DIR$/css/Styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.com_jce.xml" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.com_jce.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/allediaframework/AllediaPsr4AutoLoader.php" afterPath="$PROJECT_DIR$/libraries/allediaframework/AllediaPsr4AutoLoader.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/allediaframework/Framework/AutoLoader.php" afterPath="$PROJECT_DIR$/libraries/allediaframework/Framework/AutoLoader.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/allediaframework/Framework/Content/Tag.php" afterPath="$PROJECT_DIR$/libraries/allediaframework/Framework/Content/Tag.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/allediaframework/Framework/Content/Text.php" afterPath="$PROJECT_DIR$/libraries/allediaframework/Framework/Content/Text.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/allediaframework/Framework/Exception.php" afterPath="$PROJECT_DIR$/libraries/allediaframework/Framework/Exception.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/allediaframework/Framework/Exception/NotFound.php" afterPath="$PROJECT_DIR$/libraries/allediaframework/Framework/Exception/NotFound.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/allediaframework/Framework/Extension.php" afterPath="$PROJECT_DIR$/libraries/allediaframework/Framework/Extension.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/allediaframework/Framework/Factory.php" afterPath="$PROJECT_DIR$/libraries/allediaframework/Framework/Factory.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/allediaframework/Framework/Helper.php" afterPath="$PROJECT_DIR$/libraries/allediaframework/Framework/Helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/allediaframework/Framework/Joomla/Controller/Admin.php" afterPath="$PROJECT_DIR$/libraries/allediaframework/Framework/Joomla/Controller/Admin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/allediaframework/Framework/Joomla/Controller/Base.php" afterPath="$PROJECT_DIR$/libraries/allediaframework/Framework/Joomla/Controller/Base.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/allediaframework/Framework/Joomla/Extension/AbstractComponent.php" afterPath="$PROJECT_DIR$/libraries/allediaframework/Framework/Joomla/Extension/AbstractComponent.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/allediaframework/Framework/Joomla/Extension/AbstractFlexibleModule.php" afterPath="$PROJECT_DIR$/libraries/allediaframework/Framework/Joomla/Extension/AbstractFlexibleModule.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/allediaframework/Framework/Joomla/Extension/AbstractModule.php" afterPath="$PROJECT_DIR$/libraries/allediaframework/Framework/Joomla/Extension/AbstractModule.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/allediaframework/Framework/Joomla/Extension/AbstractPlugin.php" afterPath="$PROJECT_DIR$/libraries/allediaframework/Framework/Joomla/Extension/AbstractPlugin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/allediaframework/Framework/Joomla/Extension/Component.php" afterPath="$PROJECT_DIR$/libraries/allediaframework/Framework/Joomla/Extension/Component.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/allediaframework/Framework/Joomla/Extension/Generic.php" afterPath="$PROJECT_DIR$/libraries/allediaframework/Framework/Joomla/Extension/Generic.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/allediaframework/Framework/Joomla/Extension/Helper.php" afterPath="$PROJECT_DIR$/libraries/allediaframework/Framework/Joomla/Extension/Helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/allediaframework/Framework/Joomla/Extension/Licensed.php" afterPath="$PROJECT_DIR$/libraries/allediaframework/Framework/Joomla/Extension/Licensed.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/allediaframework/Framework/Joomla/Model/Base.php" afterPath="$PROJECT_DIR$/libraries/allediaframework/Framework/Joomla/Model/Base.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/allediaframework/Framework/Joomla/Table/Base.php" afterPath="$PROJECT_DIR$/libraries/allediaframework/Framework/Joomla/Table/Base.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/allediaframework/Framework/Joomla/View/Admin.php" afterPath="$PROJECT_DIR$/libraries/allediaframework/Framework/Joomla/View/Admin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/allediaframework/Framework/Joomla/View/Base.php" afterPath="$PROJECT_DIR$/libraries/allediaframework/Framework/Joomla/View/Base.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/allediaframework/Framework/Loader.php" afterPath="$PROJECT_DIR$/libraries/allediaframework/Framework/Loader.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/allediaframework/Framework/Network/Request.php" afterPath="$PROJECT_DIR$/libraries/allediaframework/Framework/Network/Request.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/allediaframework/Framework/Object.php" afterPath="$PROJECT_DIR$/libraries/allediaframework/Framework/Object.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/allediaframework/include.php" afterPath="$PROJECT_DIR$/libraries/allediaframework/include.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/editors/jce/jce.xml" afterPath="$PROJECT_DIR$/plugins/editors/jce/jce.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/inkythuatso/html/com_content/featured/default.php" afterPath="$PROJECT_DIR$/templates/inkythuatso/html/com_content/featured/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/inkythuatso/html/mod_articles_category/default.php" afterPath="$PROJECT_DIR$/templates/inkythuatso/html/mod_articles_category/default.php" />
     </list>
     <ignored path="inkythuatso.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -69,7 +28,7 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/inkythuatso/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="-3089">
               <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
               <folding />
             </state>
@@ -153,7 +112,7 @@
       <file leaf-file-name="default.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/com_sanpham/views/sanpham/tmpl/default.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
+            <state relative-caret-position="663">
               <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
               <folding />
             </state>
@@ -170,11 +129,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="default.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/com_gocsangtao/views/gocsangtao/tmpl/default.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+            <state relative-caret-position="351">
+              <caret line="106" column="130" selection-start-line="106" selection-start-column="28" selection-end-line="106" selection-end-column="130" />
               <folding />
             </state>
           </provider>
@@ -350,19 +309,24 @@
       <file leaf-file-name="default.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/inkythuatso/html/com_content/featured/default.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+            <state relative-caret-position="192">
+              <caret line="181" column="6" selection-start-line="181" selection-start-column="6" selection-end-line="181" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="default.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/inkythuatso/html/mod_articles_category/default.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-              <folding />
+            <state relative-caret-position="226">
+              <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+              <folding>
+                <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#figure#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -422,8 +386,6 @@
         <option value="$PROJECT_DIR$/templates/inkythuatso/index.php" />
         <option value="$PROJECT_DIR$/js/jquery.elastislide.js" />
         <option value="$PROJECT_DIR$/includes/kentlib.php" />
-        <option value="$PROJECT_DIR$/templates/inkythuatso/html/mod_articles_category/default.php" />
-        <option value="$PROJECT_DIR$/templates/inkythuatso/html/com_content/featured/default.php" />
         <option value="$PROJECT_DIR$/configuration.php" />
         <option value="$PROJECT_DIR$/components/com_sef/sef_ext/com_gocsangtao.xml" />
         <option value="$PROJECT_DIR$/components/com_sef/sef_ext/com_gocsangtao.php" />
@@ -437,6 +399,8 @@
         <option value="$PROJECT_DIR$/components/com_gocsangtao/views/gocsangtao/tmpl/default.php" />
         <option value="$PROJECT_DIR$/css/Styles.css" />
         <option value="$PROJECT_DIR$/components/com_sef/sef.ext.php" />
+        <option value="$PROJECT_DIR$/templates/inkythuatso/html/com_content/featured/default.php" />
+        <option value="$PROJECT_DIR$/templates/inkythuatso/html/mod_articles_category/default.php" />
       </list>
     </option>
   </component>
@@ -483,8 +447,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -579,51 +543,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="com_content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="featured" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com_content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
+              <option name="myItemId" value="mod_articles_category" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -746,21 +666,23 @@
       <workItem from="1474075705170" duration="27880000" />
       <workItem from="1474168217767" duration="16214000" />
       <workItem from="1474255667147" duration="10767000" />
-      <workItem from="1474334241141" duration="109000" />
+      <workItem from="1474334241141" duration="181000" />
+      <workItem from="1474511157280" duration="609000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119594000" />
+    <option name="totallyTimeSpent" value="120275000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="999" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27135417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27135417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839838" sideWeight="0.51028275" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3268817" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839838" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -769,7 +691,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3268817" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32795697" sideWeight="0.48971722" order="1" side_tool="false" content_ui="tabs" />
@@ -949,6 +870,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1263,13 +1185,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_articles_category/tmpl/default.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1291,14 +1207,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4505">
           <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/inkythuatso/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1348,7 +1256,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/components/com_sanpham/views/sanpham/tmpl/default.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
+        <state relative-caret-position="663">
           <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
           <folding />
         </state>
@@ -1358,14 +1266,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/Styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23477">
-          <caret line="1381" column="31" selection-start-line="1381" selection-start-column="31" selection-end-line="1381" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -1499,32 +1399,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/inkythuatso/html/com_content/featured/default.php">
+    <entry file="file://$PROJECT_DIR$/css/Styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+        <state relative-caret-position="23477">
+          <caret line="1381" column="31" selection-start-line="1381" selection-start-column="31" selection-end-line="1381" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/inkythuatso/html/mod_articles_category/default.php">
+    <entry file="file://$PROJECT_DIR$/templates/inkythuatso/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        <state relative-caret-position="-3089">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_articles_category/tmpl/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/inkythuatso/html/com_content/featured/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="181" column="6" selection-start-line="181" selection-start-column="6" selection-end-line="181" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/components/com_gocsangtao/views/gocsangtao/tmpl/default.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+        <state relative-caret-position="351">
+          <caret line="106" column="130" selection-start-line="106" selection-start-column="28" selection-end-line="106" selection-end-column="130" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/inkythuatso/html/mod_articles_category/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#figure#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAAsK9lSiBowvZc+Yzir8jRQL4IQww4Ol6PkWVPXWPADGY7dL8UyzqTeUu9ZImME8nilof3sNPS6WF9TeyR/m9ZjVPyk9d2ERCrUHMqQjj6Aw91pSGFN59AuOM9F+Mg8khkLqjp14/cOu/xEYd9X92DLudAeargJ7S9Bx5RD60CkxM/LjpYsmJMwMs+6nlik3xmaK+cP+0kXAHLRf5zz0+dybZIAHxKedc/tjeasFypPCJa74+hpfusPBq6m8F60BCviw==</data>
+    <data>AAAAsF3SM1ieMrbMoSuenzQ2m4LTjeZWlZN2tevEm4Fffn2rBbljRnujKho8xOfMP8fxshUdNxY/iPNDzhroOnD2xXv2jiH/4teK1CCI9nMtmJIJoG8Ub8BrxFkxsVpIqbxhv/5QSlHXMub5yLs71i3hBmyxwxqgnjTfOoS+wdcf9uBSGSLY/6esPekt/8B3ri7CxhCHmj8owDGNd8UaYU/ahb1fzfJXivbWrb+MP0TgG/r0X29aP0tOGMdLb1WyvOYl9g==</data>
   </component>
 </project>

@@ -187,20 +187,6 @@ defined('_JEXEC') or die;
             $document = JFactory::getDocument();
             $params = array();
             $renderer = $document->loadRenderer('module');
-            $position = 'block_product_2';
-            $contents = '';
-            foreach (JModuleHelper::getModules($position) as $mod) {
-                $contents .= $renderer->render($mod, $params);
-            }
-            echo $contents;
-            ?>
-        </div>
-
-        <div class="mainwidth container">
-            <?php
-            $document = JFactory::getDocument();
-            $params = array();
-            $renderer = $document->loadRenderer('module');
             $position = 'block_product_3';
             $contents = '';
             foreach (JModuleHelper::getModules($position) as $mod) {
@@ -209,6 +195,33 @@ defined('_JEXEC') or die;
             echo $contents;
             ?>
         </div>
+        <div class="mainwidth container">
+            <?php
+            $document = JFactory::getDocument();
+            $params = array();
+            $renderer = $document->loadRenderer('module');
+            $position = 'block_product_2';
+            $contents = '';
+            foreach (JModuleHelper::getModules($position) as $mod) {
+                $contents .= $renderer->render($mod, $params);
+            }
+            echo $contents;
+            ?>
+        </div>
+        <div class="mainwidth container">
+            <?php
+            $document = JFactory::getDocument();
+            $params = array();
+            $renderer = $document->loadRenderer('module');
+            $position = 'block_product_4';
+            $contents = '';
+            foreach (JModuleHelper::getModules($position) as $mod) {
+                $contents .= $renderer->render($mod, $params);
+            }
+            echo $contents;
+            ?>
+        </div>
+
     </div>
 </div>
 
