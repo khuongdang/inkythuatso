@@ -124,20 +124,6 @@ defined('_JEXEC') or die;
             $document = JFactory::getDocument();
             $params = array();
             $renderer = $document->loadRenderer('module');
-            $position = 'block_product_2';
-            $contents = '';
-            foreach (JModuleHelper::getModules($position) as $mod) {
-                $contents .= $renderer->render($mod, $params);
-            }
-            echo $contents;
-            ?>
-        </div>
-        <div class="margin_bottom_10 clearfix"></div>
-        <div class="mainwidth container">
-            <?php
-            $document = JFactory::getDocument();
-            $params = array();
-            $renderer = $document->loadRenderer('module');
             $position = 'block_product_3';
             $contents = '';
             foreach (JModuleHelper::getModules($position) as $mod) {
@@ -146,6 +132,37 @@ defined('_JEXEC') or die;
             echo $contents;
             ?>
         </div>
+        <div class="mainwidth container">
+            <?php
+            $document = JFactory::getDocument();
+            $params = array();
+            $renderer = $document->loadRenderer('module');
+            $position = 'block_product_2';
+            $contents = '';
+            foreach (JModuleHelper::getModules($position) as $mod) {
+                $contents .= $renderer->render($mod, $params);
+            }
+            echo $contents;
+            ?>
+        </div>
+<<<<<<< HEAD
+        <div class="margin_bottom_10 clearfix"></div>
+=======
+>>>>>>> 326d3efd5353e44cab6447eecced3362f996e510
+        <div class="mainwidth container">
+            <?php
+            $document = JFactory::getDocument();
+            $params = array();
+            $renderer = $document->loadRenderer('module');
+            $position = 'block_product_4';
+            $contents = '';
+            foreach (JModuleHelper::getModules($position) as $mod) {
+                $contents .= $renderer->render($mod, $params);
+            }
+            echo $contents;
+            ?>
+        </div>
+
     </div>
 </div>
 <div class="container-fluid row line_black"></div>
