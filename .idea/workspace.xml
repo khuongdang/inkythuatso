@@ -2,15 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c44e24e-8aa0-491a-a53c-eb05af0abace" name="Default" comment="update new">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/inkythuatso/html/com_contact/contact/default.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/inkythuatso/html/mod_articles_category/default.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/phocagallery/slide_show/thumbs/phoca_thumb_l_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/phocagallery/slide_show/thumbs/phoca_thumb_l_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/phocagallery/slide_show/thumbs/phoca_thumb_s_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/phocagallery/slide_show/thumbs/phoca_thumb_s_2.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/BgMenu.png" afterPath="$PROJECT_DIR$/images/BgMenu.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_sanpham/views/sanphams/tmpl/default.php" afterPath="$PROJECT_DIR$/components/com_sanpham/views/sanphams/tmpl/default.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/Styles.css" afterPath="$PROJECT_DIR$/css/Styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/kentlib.php" afterPath="$PROJECT_DIR$/includes/kentlib.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.elastislide.js" afterPath="$PROJECT_DIR$/js/jquery.elastislide.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/inkythuatso/html/com_content/featured/default.php" afterPath="$PROJECT_DIR$/templates/inkythuatso/html/com_content/featured/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/inkythuatso/html/mod_articles_category/default.php" afterPath="$PROJECT_DIR$/templates/inkythuatso/html/mod_articles_category/default.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/inkythuatso/index.php" afterPath="$PROJECT_DIR$/templates/inkythuatso/index.php" />
     </list>
     <ignored path="inkythuatso.iws" />
@@ -35,20 +39,44 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/inkythuatso/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="24" column="73" selection-start-line="24" selection-start-column="73" selection-end-line="24" selection-end-column="73" />
+            <state relative-caret-position="19">
+              <caret line="139" column="0" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
               <folding>
-                <marker date="1474200276556" expanded="true" signature="7900:8392" ph="..." />
-                <marker date="1474200276556" expanded="true" signature="7919:7945" ph="..." />
-                <marker date="1474200276556" expanded="true" signature="7919:8042" ph="..." />
-                <marker date="1474200276556" expanded="true" signature="8061:8087" ph="..." />
-                <marker date="1474200276556" expanded="true" signature="8061:8181" ph="..." />
-                <marker date="1474200276556" expanded="true" signature="8200:8226" ph="..." />
-                <marker date="1474200276556" expanded="true" signature="8200:8376" ph="..." />
-                <marker date="1474200276556" expanded="true" signature="8428:8904" ph="..." />
-                <marker date="1474200276556" expanded="true" signature="8474:8578" ph="..." />
-                <marker date="1474200276556" expanded="true" signature="8618:8888" ph="..." />
+                <element signature="n#style#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1474572911214" expanded="true" signature="6391:6417" ph="..." />
+                <marker date="1474572911214" expanded="true" signature="6497:6522" ph="..." />
+                <marker date="1474572911214" expanded="true" signature="6635:6661" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Styles.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/Styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="329" column="20" selection-start-line="329" selection-start-column="20" selection-end-line="329" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/inkythuatso/html/com_content/category/blog.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="5173" column="1" selection-start-line="5173" selection-start-column="1" selection-end-line="5173" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -56,24 +84,26 @@
       <file leaf-file-name="kentlib.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/includes/kentlib.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="53" column="92" selection-start-line="53" selection-start-column="92" selection-end-line="53" selection-end-column="92" />
+            <state relative-caret-position="73">
+              <caret line="125" column="0" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
               <folding>
-                <marker date="1474202309380" expanded="true" signature="694:739" ph="SELECT * FRO... ikts_categories" />
-                <marker date="1474202309380" expanded="true" signature="1009:1018" ph="SELECT * fro... " />
-                <marker date="1474202309380" expanded="true" signature="1009:1024" ph="SELECT * FRO... ##" />
-                <marker date="1474202309380" expanded="true" signature="1009:1050" ph="SELECT * FRO... ikts_content" />
-                <marker date="1474202309380" expanded="true" signature="1009:1067" ph="SELECT * FRO... ikts_content" />
-                <marker date="1474202309380" expanded="true" signature="1009:1098" ph="SELECT * FRO... ikts_content" />
-                <marker date="1474202309380" expanded="true" signature="1708:1753" ph="SELECT * FRO... ikts_categories" />
-                <marker date="1474202309380" expanded="true" signature="1708:1761" ph="SELECT * FRO... ikts_categories" />
-                <marker date="1474202309380" expanded="true" signature="1708:1778" ph="SELECT * FRO... ikts_categories" />
-                <marker date="1474202309380" expanded="true" signature="2270:2305" ph="SELECT * FRO... ikts_content" />
-                <marker date="1474202309380" expanded="true" signature="2589:2627" ph="SELECT * FRO... ikts_categories" />
-                <marker date="1474202309380" expanded="true" signature="2976:3014" ph="SELECT * FRO... ikts_content" />
-                <marker date="1474202309380" expanded="true" signature="2976:3037" ph="SELECT * FRO... ikts_content" />
-                <marker date="1474202309380" expanded="true" signature="2976:3039" ph="SELECT * FRO... ikts_content" />
-                <marker date="1474202309380" expanded="true" signature="3099:3137" ph="SELECT * FRO... ikts_content" />
+                <marker date="1474567298915" expanded="true" signature="694:739" ph="SELECT * FRO... ikts_categories" />
+                <marker date="1474567298915" expanded="true" signature="1009:1018" ph="SELECT * fro... " />
+                <marker date="1474567298915" expanded="true" signature="1009:1024" ph="SELECT * FRO... ##" />
+                <marker date="1474567298915" expanded="true" signature="1009:1050" ph="SELECT * FRO... ikts_content" />
+                <marker date="1474567298915" expanded="true" signature="1009:1067" ph="SELECT * FRO... ikts_content" />
+                <marker date="1474567298915" expanded="true" signature="1009:1098" ph="SELECT * FRO... ikts_content" />
+                <marker date="1474567298915" expanded="true" signature="1708:1753" ph="SELECT * FRO... ikts_categories" />
+                <marker date="1474567298915" expanded="true" signature="1708:1761" ph="SELECT * FRO... ikts_categories" />
+                <marker date="1474567298915" expanded="true" signature="1708:1778" ph="SELECT * FRO... ikts_categories" />
+                <marker date="1474567298915" expanded="true" signature="2270:2305" ph="SELECT * FRO... ikts_content" />
+                <marker date="1474567298915" expanded="true" signature="2589:2627" ph="SELECT * FRO... ikts_categories" />
+                <marker date="1474567298915" expanded="true" signature="2976:3014" ph="SELECT * FRO... ikts_content" />
+                <marker date="1474567298915" expanded="true" signature="2976:3037" ph="SELECT * FRO... ikts_content" />
+                <marker date="1474567298915" expanded="true" signature="2976:3039" ph="SELECT * FRO... ikts_content" />
+                <marker date="1474567298915" expanded="true" signature="3099:3137" ph="SELECT * FRO... ikts_content" />
+                <marker date="1474567298915" expanded="true" signature="4452:4495" ph="SELECT * FRO... ikts_phocagallery" />
+                <marker date="1474567298915" expanded="true" signature="4452:4520" ph="SELECT * FRO... ikts_phocagallery" />
               </folding>
             </state>
           </provider>
@@ -82,7 +112,7 @@
       <file leaf-file-name="default.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/administrator/components/com_categories/views/categories/tmpl/default.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3315">
+            <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -92,7 +122,7 @@
       <file leaf-file-name="view.html.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/administrator/components/com_categories/views/categories/view.html.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4542">
+            <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -102,7 +132,7 @@
       <file leaf-file-name="categories.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/administrator/components/com_categories/controllers/categories.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2403">
+            <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -112,7 +142,7 @@
       <file leaf-file-name="categories.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/administrator/components/com_categories/helpers/categories.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2355">
+            <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -122,7 +152,7 @@
       <file leaf-file-name="categories.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/administrator/components/com_categories/models/categories.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="986">
               <caret line="64" column="55" selection-start-line="64" selection-start-column="52" selection-end-line="64" selection-end-column="55" />
               <folding />
             </state>
@@ -132,9 +162,37 @@
       <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="231" column="16" selection-start-line="231" selection-start-column="16" selection-end-line="231" selection-end-column="16" />
+            <state relative-caret-position="101">
+              <caret line="69" column="17" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/inkythuatso/html/com_content/featured/default.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-154">
+              <caret line="112" column="42" selection-start-line="112" selection-start-column="42" selection-end-line="112" selection-end-column="42" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <marker date="1474568361841" expanded="true" signature="4610:4716" ph="..." />
+                <marker date="1474568361841" expanded="true" signature="4919:4946" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -156,21 +214,21 @@
       <file leaf-file-name="jquery.elastislide.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/jquery.elastislide.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="55">
-              <caret line="526" column="0" selection-start-line="526" selection-start-column="0" selection-end-line="534" selection-end-column="3" />
-              <folding />
+            <state relative-caret-position="221">
+              <caret line="218" column="41" selection-start-line="212" selection-start-column="16" selection-end-line="218" selection-end-column="41" />
+              <folding>
+                <element signature="e#139#1574#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/inkythuatso/html/com_content/featured/default.php">
+      <file leaf-file-name="jssor_slider1_starter.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/jssor_slider1_starter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="203" column="40" selection-start-line="203" selection-start-column="40" selection-end-line="203" selection-end-column="40" />
-              <folding>
-                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-              </folding>
+            <state relative-caret-position="889">
+              <caret line="141" column="24" selection-start-line="141" selection-start-column="12" selection-end-line="141" selection-end-column="24" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -178,23 +236,8 @@
       <file leaf-file-name="default.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/inkythuatso/html/mod_articles_category/default.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-272">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-              <folding>
-                <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#figure#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/mod_articles_category/tmpl/default.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="14" column="28" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="28" />
+            <state relative-caret-position="104">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -238,7 +281,6 @@
         <option value="$PROJECT_DIR$/caonguyen/caonguyenxanh_files/bootstrap.css" />
         <option value="$PROJECT_DIR$/caonguyen/caonguyenxanh_files/Styles.css" />
         <option value="$PROJECT_DIR$/templates/inkythuatso/html/mod_menu/default.php" />
-        <option value="$PROJECT_DIR$/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/css/breadcrumb.css" />
         <option value="$PROJECT_DIR$/components/com_content/helpers/route.php" />
         <option value="$PROJECT_DIR$/.htaccess" />
@@ -252,15 +294,16 @@
         <option value="$PROJECT_DIR$/components/com_gocsangtao/views/gocsangtao/tmpl/default.php" />
         <option value="$PROJECT_DIR$/templates/inkythuatso/html/com_content/article/default.php" />
         <option value="$PROJECT_DIR$/templates/inkythuatso/html/com_contact/contact/default.php" />
-        <option value="$PROJECT_DIR$/css/Styles.css" />
         <option value="$PROJECT_DIR$/components/com_contact/views/contact/view.html.php" />
-        <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/components/com_sanpham/views/sanphams/tmpl/default.php" />
-        <option value="$PROJECT_DIR$/templates/inkythuatso/index.php" />
-        <option value="$PROJECT_DIR$/js/jquery.elastislide.js" />
         <option value="$PROJECT_DIR$/includes/kentlib.php" />
-        <option value="$PROJECT_DIR$/templates/inkythuatso/html/mod_articles_category/default.php" />
+        <option value="$PROJECT_DIR$/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/templates/inkythuatso/html/com_content/featured/default.php" />
+        <option value="$PROJECT_DIR$/js/jquery.elastislide.js" />
+        <option value="$PROJECT_DIR$/templates/inkythuatso/html/mod_articles_category/default.php" />
+        <option value="$PROJECT_DIR$/css/custom.css" />
+        <option value="$PROJECT_DIR$/templates/inkythuatso/index.php" />
+        <option value="$PROJECT_DIR$/css/Styles.css" />
       </list>
     </option>
   </component>
@@ -308,7 +351,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -339,98 +381,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mod_breadcrumbs" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mod_articles_category" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -502,235 +452,14 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="administrator" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="administrator" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="administrator" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com_categories" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="administrator" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com_categories" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="administrator" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com_categories" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="categories" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="administrator" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com_categories" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="categories" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tmpl" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="administrator" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com_categories" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="administrator" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com_categories" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="helpers" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inkythuatso" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="administrator" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com_categories" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="components/com_content/router.php&#9;FILE&#9;file://D:/ROOT/inkythuatso/components/com_content/router.php&#10;components\com_content\router.php&#9;FILE&#9;file://D:/ROOT/inkythuatso/components/com_content/router.php&#10;router.php&#9;FILE&#9;file://D:/ROOT/inkythuatso/libraries/joomla/application/web/router.php&#10;js/jquery.superslides.js&#9;FILE&#9;file://D:/ROOT/inkythuatso/template/js/jquery.superslides.js" />
+    <property name="SearchEverywhereHistoryKey" value="js/jssor_slider1_starter.js&#9;FILE&#9;file://D:/ROOT/inkythuatso/js/jssor_slider1_starter.js&#10;components/com_content/router.php&#9;FILE&#9;file://D:/ROOT/inkythuatso/components/com_content/router.php&#10;components\com_content\router.php&#9;FILE&#9;file://D:/ROOT/inkythuatso/components/com_content/router.php&#10;router.php&#9;FILE&#9;file://D:/ROOT/inkythuatso/libraries/joomla/application/web/router.php&#10;js/jquery.superslides.js&#9;FILE&#9;file://D:/ROOT/inkythuatso/template/js/jquery.superslides.js" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="202" />
@@ -842,21 +571,22 @@
       <workItem from="1474075649735" duration="39000" />
       <workItem from="1474075705170" duration="27880000" />
       <workItem from="1474168217767" duration="16214000" />
+      <workItem from="1474564078267" duration="9232000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108718000" />
+    <option name="totallyTimeSpent" value="117950000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2718509" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27506426" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839838" sideWeight="0.51028275" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839838" sideWeight="0.48971722" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32839838" sideWeight="0.48971722" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3270525" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839838" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -915,19 +645,164 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/templates/inkythuatso/index.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="73" selection-start-line="24" selection-start-column="73" selection-end-line="24" selection-end-column="73" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1474572911214" expanded="true" signature="6391:6417" ph="..." />
+            <marker date="1474572911214" expanded="true" signature="6497:6522" ph="..." />
+            <marker date="1474572911214" expanded="true" signature="6635:6661" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/kentlib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="92" selection-start-line="53" selection-start-column="92" selection-end-line="53" selection-end-column="92" />
+          <folding>
+            <marker date="1474567298915" expanded="true" signature="694:739" ph="SELECT * FRO... ikts_categories" />
+            <marker date="1474567298915" expanded="true" signature="1009:1018" ph="SELECT * fro... " />
+            <marker date="1474567298915" expanded="true" signature="1009:1024" ph="SELECT * FRO... ##" />
+            <marker date="1474567298915" expanded="true" signature="1009:1050" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="1009:1067" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="1009:1098" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="1708:1753" ph="SELECT * FRO... ikts_categories" />
+            <marker date="1474567298915" expanded="true" signature="1708:1761" ph="SELECT * FRO... ikts_categories" />
+            <marker date="1474567298915" expanded="true" signature="1708:1778" ph="SELECT * FRO... ikts_categories" />
+            <marker date="1474567298915" expanded="true" signature="2270:2305" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="2589:2627" ph="SELECT * FRO... ikts_categories" />
+            <marker date="1474567298915" expanded="true" signature="2976:3014" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="2976:3037" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="2976:3039" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="3099:3137" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="4452:4495" ph="SELECT * FRO... ikts_phocagallery" />
+            <marker date="1474567298915" expanded="true" signature="4452:4520" ph="SELECT * FRO... ikts_phocagallery" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_categories/views/categories/tmpl/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_categories/views/categories/view.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_categories/controllers/categories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_categories/helpers/categories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_categories/models/categories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="64" column="55" selection-start-line="64" selection-start-column="52" selection-end-line="64" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3927">
+          <caret line="231" column="16" selection-start-line="231" selection-start-column="16" selection-end-line="231" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_sanpham/views/sanphams/tmpl/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+          <folding>
+            <marker date="1474193816006" expanded="true" signature="4536:4618" ph="..." />
+            <marker date="1474193816006" expanded="true" signature="4705:4744" ph="..." />
+            <marker date="1474193816006" expanded="true" signature="4787:4814" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.elastislide.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8942">
+          <caret line="526" column="0" selection-start-line="526" selection-start-column="0" selection-end-line="534" selection-end-column="3" />
+          <folding>
+            <element signature="e#139#1574#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/inkythuatso/html/com_content/featured/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <marker date="1474568361841" expanded="true" signature="4610:4716" ph="..." />
+            <marker date="1474568361841" expanded="true" signature="4919:4946" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/inkythuatso/html/mod_articles_category/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_articles_category/tmpl/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/inkythuatso/index.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="33" column="22" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="22" />
           <folding>
-            <marker date="1474200276556" expanded="true" signature="7900:8392" ph="..." />
-            <marker date="1474200276556" expanded="true" signature="7919:7945" ph="..." />
-            <marker date="1474200276556" expanded="true" signature="7919:8042" ph="..." />
-            <marker date="1474200276556" expanded="true" signature="8061:8087" ph="..." />
-            <marker date="1474200276556" expanded="true" signature="8061:8181" ph="..." />
-            <marker date="1474200276556" expanded="true" signature="8200:8226" ph="..." />
-            <marker date="1474200276556" expanded="true" signature="8200:8376" ph="..." />
-            <marker date="1474200276556" expanded="true" signature="8428:8904" ph="..." />
-            <marker date="1474200276556" expanded="true" signature="8474:8578" ph="..." />
-            <marker date="1474200276556" expanded="true" signature="8618:8888" ph="..." />
+            <element signature="n#style#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1474572911214" expanded="true" signature="6391:6417" ph="..." />
+            <marker date="1474572911214" expanded="true" signature="6497:6522" ph="..." />
+            <marker date="1474572911214" expanded="true" signature="6635:6661" ph="..." />
           </folding>
         </state>
       </provider>
@@ -937,21 +812,23 @@
         <state relative-caret-position="1496">
           <caret line="88" column="5" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
           <folding>
-            <marker date="1474202309380" expanded="true" signature="694:739" ph="SELECT * FRO... ikts_categories" />
-            <marker date="1474202309380" expanded="true" signature="1009:1018" ph="SELECT * fro... " />
-            <marker date="1474202309380" expanded="true" signature="1009:1024" ph="SELECT * FRO... ##" />
-            <marker date="1474202309380" expanded="true" signature="1009:1050" ph="SELECT * FRO... ikts_content" />
-            <marker date="1474202309380" expanded="true" signature="1009:1067" ph="SELECT * FRO... ikts_content" />
-            <marker date="1474202309380" expanded="true" signature="1009:1098" ph="SELECT * FRO... ikts_content" />
-            <marker date="1474202309380" expanded="true" signature="1708:1753" ph="SELECT * FRO... ikts_categories" />
-            <marker date="1474202309380" expanded="true" signature="1708:1761" ph="SELECT * FRO... ikts_categories" />
-            <marker date="1474202309380" expanded="true" signature="1708:1778" ph="SELECT * FRO... ikts_categories" />
-            <marker date="1474202309380" expanded="true" signature="2270:2305" ph="SELECT * FRO... ikts_content" />
-            <marker date="1474202309380" expanded="true" signature="2589:2627" ph="SELECT * FRO... ikts_categories" />
-            <marker date="1474202309380" expanded="true" signature="2976:3014" ph="SELECT * FRO... ikts_content" />
-            <marker date="1474202309380" expanded="true" signature="2976:3037" ph="SELECT * FRO... ikts_content" />
-            <marker date="1474202309380" expanded="true" signature="2976:3039" ph="SELECT * FRO... ikts_content" />
-            <marker date="1474202309380" expanded="true" signature="3099:3137" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="694:739" ph="SELECT * FRO... ikts_categories" />
+            <marker date="1474567298915" expanded="true" signature="1009:1018" ph="SELECT * fro... " />
+            <marker date="1474567298915" expanded="true" signature="1009:1024" ph="SELECT * FRO... ##" />
+            <marker date="1474567298915" expanded="true" signature="1009:1050" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="1009:1067" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="1009:1098" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="1708:1753" ph="SELECT * FRO... ikts_categories" />
+            <marker date="1474567298915" expanded="true" signature="1708:1761" ph="SELECT * FRO... ikts_categories" />
+            <marker date="1474567298915" expanded="true" signature="1708:1778" ph="SELECT * FRO... ikts_categories" />
+            <marker date="1474567298915" expanded="true" signature="2270:2305" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="2589:2627" ph="SELECT * FRO... ikts_categories" />
+            <marker date="1474567298915" expanded="true" signature="2976:3014" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="2976:3037" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="2976:3039" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="3099:3137" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="4452:4495" ph="SELECT * FRO... ikts_phocagallery" />
+            <marker date="1474567298915" expanded="true" signature="4452:4520" ph="SELECT * FRO... ikts_phocagallery" />
           </folding>
         </state>
       </provider>
@@ -961,7 +838,23 @@
         <state relative-caret-position="1496">
           <caret line="88" column="386" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="386" />
           <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <marker date="1474568361841" expanded="true" signature="4610:4716" ph="..." />
+            <marker date="1474568361841" expanded="true" signature="4919:4946" ph="..." />
           </folding>
         </state>
       </provider>
@@ -970,7 +863,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8993">
           <caret line="529" column="18" selection-start-line="529" selection-start-column="8" selection-end-line="529" selection-end-column="18" />
-          <folding />
+          <folding>
+            <element signature="e#139#1574#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -978,7 +873,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1028,7 +922,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1036,7 +929,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1044,7 +936,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1060,7 +951,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3128">
           <caret line="190" column="33" selection-start-line="190" selection-start-column="27" selection-end-line="190" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1117,16 +1007,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1474200276556" expanded="true" signature="7900:8392" ph="..." />
-            <marker date="1474200276556" expanded="true" signature="7919:7945" ph="..." />
-            <marker date="1474200276556" expanded="true" signature="7919:8042" ph="..." />
-            <marker date="1474200276556" expanded="true" signature="8061:8087" ph="..." />
-            <marker date="1474200276556" expanded="true" signature="8061:8181" ph="..." />
-            <marker date="1474200276556" expanded="true" signature="8200:8226" ph="..." />
-            <marker date="1474200276556" expanded="true" signature="8200:8376" ph="..." />
-            <marker date="1474200276556" expanded="true" signature="8428:8904" ph="..." />
-            <marker date="1474200276556" expanded="true" signature="8474:8578" ph="..." />
-            <marker date="1474200276556" expanded="true" signature="8618:8888" ph="..." />
+            <element signature="n#style#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1474572911214" expanded="true" signature="6391:6417" ph="..." />
+            <marker date="1474572911214" expanded="true" signature="6497:6522" ph="..." />
+            <marker date="1474572911214" expanded="true" signature="6635:6661" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1136,7 +1020,23 @@
         <state relative-caret-position="1819">
           <caret line="107" column="34" selection-start-line="107" selection-start-column="34" selection-end-line="107" selection-end-column="34" />
           <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <marker date="1474568361841" expanded="true" signature="4610:4716" ph="..." />
+            <marker date="1474568361841" expanded="true" signature="4919:4946" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1153,7 +1053,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1205,7 +1104,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="33" column="55" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1214,21 +1112,23 @@
         <state relative-caret-position="442">
           <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
           <folding>
-            <marker date="1474202309380" expanded="true" signature="694:739" ph="SELECT * FRO... ikts_categories" />
-            <marker date="1474202309380" expanded="true" signature="1009:1018" ph="SELECT * fro... " />
-            <marker date="1474202309380" expanded="true" signature="1009:1024" ph="SELECT * FRO... ##" />
-            <marker date="1474202309380" expanded="true" signature="1009:1050" ph="SELECT * FRO... ikts_content" />
-            <marker date="1474202309380" expanded="true" signature="1009:1067" ph="SELECT * FRO... ikts_content" />
-            <marker date="1474202309380" expanded="true" signature="1009:1098" ph="SELECT * FRO... ikts_content" />
-            <marker date="1474202309380" expanded="true" signature="1708:1753" ph="SELECT * FRO... ikts_categories" />
-            <marker date="1474202309380" expanded="true" signature="1708:1761" ph="SELECT * FRO... ikts_categories" />
-            <marker date="1474202309380" expanded="true" signature="1708:1778" ph="SELECT * FRO... ikts_categories" />
-            <marker date="1474202309380" expanded="true" signature="2270:2305" ph="SELECT * FRO... ikts_content" />
-            <marker date="1474202309380" expanded="true" signature="2589:2627" ph="SELECT * FRO... ikts_categories" />
-            <marker date="1474202309380" expanded="true" signature="2976:3014" ph="SELECT * FRO... ikts_content" />
-            <marker date="1474202309380" expanded="true" signature="2976:3037" ph="SELECT * FRO... ikts_content" />
-            <marker date="1474202309380" expanded="true" signature="2976:3039" ph="SELECT * FRO... ikts_content" />
-            <marker date="1474202309380" expanded="true" signature="3099:3137" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="694:739" ph="SELECT * FRO... ikts_categories" />
+            <marker date="1474567298915" expanded="true" signature="1009:1018" ph="SELECT * fro... " />
+            <marker date="1474567298915" expanded="true" signature="1009:1024" ph="SELECT * FRO... ##" />
+            <marker date="1474567298915" expanded="true" signature="1009:1050" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="1009:1067" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="1009:1098" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="1708:1753" ph="SELECT * FRO... ikts_categories" />
+            <marker date="1474567298915" expanded="true" signature="1708:1761" ph="SELECT * FRO... ikts_categories" />
+            <marker date="1474567298915" expanded="true" signature="1708:1778" ph="SELECT * FRO... ikts_categories" />
+            <marker date="1474567298915" expanded="true" signature="2270:2305" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="2589:2627" ph="SELECT * FRO... ikts_categories" />
+            <marker date="1474567298915" expanded="true" signature="2976:3014" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="2976:3037" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="2976:3039" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="3099:3137" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="4452:4495" ph="SELECT * FRO... ikts_phocagallery" />
+            <marker date="1474567298915" expanded="true" signature="4452:4520" ph="SELECT * FRO... ikts_phocagallery" />
           </folding>
         </state>
       </provider>
@@ -1237,7 +1137,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4284">
           <caret line="258" column="40" selection-start-line="258" selection-start-column="29" selection-end-line="258" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1259,7 +1158,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10897">
           <caret line="647" column="30" selection-start-line="647" selection-start-column="25" selection-end-line="647" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1532,13 +1430,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/astonish.css" />
     <entry file="file://$PROJECT_DIR$/css/default.css" />
-    <entry file="file://$PROJECT_DIR$/templates/inkythuatso/html/com_content/category/blog.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/headers/dark.css" />
     <entry file="file://$PROJECT_DIR$/css/default_ipad.css" />
     <entry file="file://$PROJECT_DIR$/caonguyen/caonguyenxanh_files/page.html" />
@@ -1613,14 +1504,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97070">
-          <caret line="5710" column="54" selection-start-line="5710" selection-start-column="54" selection-end-line="5710" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/inkythuatso/html/mod_menu/default.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -1653,7 +1536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10897">
           <caret line="647" column="30" selection-start-line="647" selection-start-column="25" selection-end-line="647" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1689,7 +1571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1713,7 +1594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="33" column="55" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1789,41 +1669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="2847" column="34" selection-start-line="2847" selection-start-column="34" selection-end-line="2847" selection-end-column="34" />
-          <folding>
-            <marker date="1474095196625" expanded="true" signature="43778:43876" ph="SELECT `id` ikts_sefurls" />
-            <marker date="1474095196625" expanded="true" signature="53415:53497" ph="SELECT * FRO... ikts_sefurls" />
-            <marker date="1474095196625" expanded="true" signature="57972:58032" ph="UPDATE ikts_... " />
-            <marker date="1474095196625" expanded="true" signature="66416:66460" ph="SELECT * FRO... ikts_sefurls" />
-            <marker date="1474095196625" expanded="true" signature="66692:66749" ph="UPDATE `ikts... " />
-            <marker date="1474095196625" expanded="true" signature="67175:67340" ph="INSERT INTO `ikts_sefurls`... " />
-            <marker date="1474095196625" expanded="true" signature="69360:69411" ph="SELECT `id` ikts_content" />
-            <marker date="1474095196625" expanded="true" signature="71282:71417" ph="SELECT `a`.`... ikts_sefaliases" />
-            <marker date="1474095196625" expanded="true" signature="82408:82534" ph="SELECT ${$db... ikts_menu" />
-            <marker date="1474095196625" expanded="true" signature="82962:83075" ph="SELECT ${(in... ikts_menu" />
-            <marker date="1474095196625" expanded="true" signature="83440:83586" ph="SELECT ${$db... ikts_menu" />
-            <marker date="1474095196625" expanded="true" signature="83837:83990" ph="SELECT ${$db... ikts_menu" />
-            <marker date="1474095196625" expanded="true" signature="85314:85423" ph="SELECT `${(i... ikts_menu" />
-            <marker date="1474095196625" expanded="true" signature="85775:85897" ph="SELECT `${$d... ikts_menu" />
-            <marker date="1474095196625" expanded="true" signature="86322:86465" ph="SELECT `${$d... ikts_menu" />
-            <marker date="1474095196625" expanded="true" signature="86716:86866" ph="SELECT `${$d... ikts_menu" />
-            <marker date="1474095196625" expanded="true" signature="104027:104138" ph="SELECT * FRO... ikts_sefurls" />
-            <marker date="1474095196625" expanded="true" signature="104692:104786" ph="UPDATE `ikts... " />
-            <marker date="1474095196625" expanded="true" signature="105855:105966" ph="SELECT * FRO... ikts_sefurls" />
-            <marker date="1474095196625" expanded="true" signature="106543:106637" ph="UPDATE `ikts... " />
-            <marker date="1474095196625" expanded="true" signature="113630:113752" ph="SELECT `id`,... ikts_sefurls" />
-            <marker date="1474095196625" expanded="true" signature="114272:114379" ph="SELECT `id`,... ikts_sefurls" />
-            <marker date="1474095196625" expanded="true" signature="117038:117115" ph="..." />
-            <marker date="1474095196625" expanded="true" signature="118967:119105" ph="UPDATE `ikts... " />
-            <marker date="1474095196625" expanded="true" signature="120007:120097" ph="SELECT `id` ikts_sefurls" />
-            <marker date="1474095196625" expanded="true" signature="120364:120524" ph="UPDATE `ikts... " />
-            <marker date="1474095196625" expanded="true" signature="122564:122982" ph="INSERT INTO `ikts_sefurls`... " />
-            <marker date="1474095196625" expanded="true" signature="129752:129775" ph="DELETE FROM " />
-            <marker date="1474095196625" expanded="true" signature="130119:130142" ph="DELETE FROM " />
-            <marker date="1474095196625" expanded="true" signature="130729:130752" ph="INSERT INTO ikts_sefmoved... " />
-            <marker date="1474095196625" expanded="true" signature="131165:131187" ph="UPDATE ikts_... " />
-            <marker date="1474095196625" expanded="true" signature="132782:132804" ph="DELETE FROM " />
-            <marker date="1474095196625" expanded="true" signature="133154:133177" ph="DELETE FROM " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1853,7 +1698,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2703">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1861,7 +1705,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3128">
           <caret line="190" column="33" selection-start-line="190" selection-start-column="27" selection-end-line="190" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1869,7 +1712,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1877,7 +1719,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1893,7 +1734,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1901,7 +1741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1910,7 +1749,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1954,7 +1792,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2487">
           <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1970,7 +1807,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1978,15 +1814,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1381">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/Styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="1338" column="61" selection-start-line="1331" selection-start-column="3" selection-end-line="1338" selection-end-column="61" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1994,7 +1821,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2002,7 +1828,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-612">
           <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2010,7 +1835,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3365">
           <caret line="391" column="38" selection-start-line="391" selection-start-column="23" selection-end-line="391" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2018,7 +1842,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3009">
           <caret line="183" column="75" selection-start-line="183" selection-start-column="16" selection-end-line="183" selection-end-column="75" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2026,7 +1849,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="141" column="22" selection-start-line="141" selection-start-column="22" selection-end-line="141" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2034,7 +1856,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1380">
           <caret line="194" column="26" selection-start-line="194" selection-start-column="21" selection-end-line="194" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2042,7 +1863,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1188">
           <caret line="83" column="9" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2050,9 +1870,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-92">
           <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2060,7 +1877,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2068,7 +1884,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="461" column="36" selection-start-line="461" selection-start-column="36" selection-end-line="461" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2076,7 +1891,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-263">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2084,7 +1898,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-878">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2092,7 +1905,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
           <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2100,7 +1912,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2247">
           <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2108,7 +1919,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2116,7 +1926,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2043">
           <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2124,7 +1933,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1683">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2132,52 +1940,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3927">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1470329054000" expanded="true" signature="3892:3966" ph="SELECT cat.i... ikts_categories" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="231" column="16" selection-start-line="231" selection-start-column="16" selection-end-line="231" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_articles_category/tmpl/default.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/inkythuatso/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="24" column="73" selection-start-line="24" selection-start-column="73" selection-end-line="24" selection-end-column="73" />
-          <folding>
-            <marker date="1474200276556" expanded="true" signature="7900:8392" ph="..." />
-            <marker date="1474200276556" expanded="true" signature="7919:7945" ph="..." />
-            <marker date="1474200276556" expanded="true" signature="7919:8042" ph="..." />
-            <marker date="1474200276556" expanded="true" signature="8061:8087" ph="..." />
-            <marker date="1474200276556" expanded="true" signature="8061:8181" ph="..." />
-            <marker date="1474200276556" expanded="true" signature="8200:8226" ph="..." />
-            <marker date="1474200276556" expanded="true" signature="8200:8376" ph="..." />
-            <marker date="1474200276556" expanded="true" signature="8428:8904" ph="..." />
-            <marker date="1474200276556" expanded="true" signature="8474:8578" ph="..." />
-            <marker date="1474200276556" expanded="true" signature="8618:8888" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.elastislide.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="526" column="0" selection-start-line="526" selection-start-column="0" selection-end-line="534" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2195,7 +1957,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/administrator/components/com_categories/views/categories/tmpl/default.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3315">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -2203,7 +1965,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/administrator/components/com_categories/views/categories/view.html.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4542">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -2211,7 +1973,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/administrator/components/com_categories/controllers/categories.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2403">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -2219,7 +1981,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/administrator/components/com_categories/helpers/categories.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2355">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -2227,61 +1989,145 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/administrator/components/com_categories/models/categories.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="986">
           <caret line="64" column="55" selection-start-line="64" selection-start-column="52" selection-end-line="64" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jssor_slider1_starter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="889">
+          <caret line="141" column="24" selection-start-line="141" selection-start-column="12" selection-end-line="141" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/includes/kentlib.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="53" column="92" selection-start-line="53" selection-start-column="92" selection-end-line="53" selection-end-column="92" />
+        <state relative-caret-position="73">
+          <caret line="125" column="0" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
           <folding>
-            <marker date="1474202309380" expanded="true" signature="694:739" ph="SELECT * FRO... ikts_categories" />
-            <marker date="1474202309380" expanded="true" signature="1009:1018" ph="SELECT * fro... " />
-            <marker date="1474202309380" expanded="true" signature="1009:1024" ph="SELECT * FRO... ##" />
-            <marker date="1474202309380" expanded="true" signature="1009:1050" ph="SELECT * FRO... ikts_content" />
-            <marker date="1474202309380" expanded="true" signature="1009:1067" ph="SELECT * FRO... ikts_content" />
-            <marker date="1474202309380" expanded="true" signature="1009:1098" ph="SELECT * FRO... ikts_content" />
-            <marker date="1474202309380" expanded="true" signature="1708:1753" ph="SELECT * FRO... ikts_categories" />
-            <marker date="1474202309380" expanded="true" signature="1708:1761" ph="SELECT * FRO... ikts_categories" />
-            <marker date="1474202309380" expanded="true" signature="1708:1778" ph="SELECT * FRO... ikts_categories" />
-            <marker date="1474202309380" expanded="true" signature="2270:2305" ph="SELECT * FRO... ikts_content" />
-            <marker date="1474202309380" expanded="true" signature="2589:2627" ph="SELECT * FRO... ikts_categories" />
-            <marker date="1474202309380" expanded="true" signature="2976:3014" ph="SELECT * FRO... ikts_content" />
-            <marker date="1474202309380" expanded="true" signature="2976:3037" ph="SELECT * FRO... ikts_content" />
-            <marker date="1474202309380" expanded="true" signature="2976:3039" ph="SELECT * FRO... ikts_content" />
-            <marker date="1474202309380" expanded="true" signature="3099:3137" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="694:739" ph="SELECT * FRO... ikts_categories" />
+            <marker date="1474567298915" expanded="true" signature="1009:1018" ph="SELECT * fro... " />
+            <marker date="1474567298915" expanded="true" signature="1009:1024" ph="SELECT * FRO... ##" />
+            <marker date="1474567298915" expanded="true" signature="1009:1050" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="1009:1067" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="1009:1098" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="1708:1753" ph="SELECT * FRO... ikts_categories" />
+            <marker date="1474567298915" expanded="true" signature="1708:1761" ph="SELECT * FRO... ikts_categories" />
+            <marker date="1474567298915" expanded="true" signature="1708:1778" ph="SELECT * FRO... ikts_categories" />
+            <marker date="1474567298915" expanded="true" signature="2270:2305" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="2589:2627" ph="SELECT * FRO... ikts_categories" />
+            <marker date="1474567298915" expanded="true" signature="2976:3014" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="2976:3037" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="2976:3039" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="3099:3137" ph="SELECT * FRO... ikts_content" />
+            <marker date="1474567298915" expanded="true" signature="4452:4495" ph="SELECT * FRO... ikts_phocagallery" />
+            <marker date="1474567298915" expanded="true" signature="4452:4520" ph="SELECT * FRO... ikts_phocagallery" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_articles_category/tmpl/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.elastislide.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="218" column="41" selection-start-line="212" selection-start-column="16" selection-end-line="218" selection-end-column="41" />
+          <folding>
+            <element signature="e#139#1574#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/inkythuatso/html/com_content/category/blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="5173" column="1" selection-start-line="5173" selection-start-column="1" selection-end-line="5173" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="69" column="17" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/inkythuatso/html/com_content/featured/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-154">
+          <caret line="112" column="42" selection-start-line="112" selection-start-column="42" selection-end-line="112" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <marker date="1474568361841" expanded="true" signature="4610:4716" ph="..." />
+            <marker date="1474568361841" expanded="true" signature="4919:4946" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/inkythuatso/html/mod_articles_category/default.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-272">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        <state relative-caret-position="104">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/inkythuatso/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="139" column="0" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#figure#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1474572911214" expanded="true" signature="6391:6417" ph="..." />
+            <marker date="1474572911214" expanded="true" signature="6497:6522" ph="..." />
+            <marker date="1474572911214" expanded="true" signature="6635:6661" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/inkythuatso/html/com_content/featured/default.php">
+    <entry file="file://$PROJECT_DIR$/css/Styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="203" column="40" selection-start-line="203" selection-start-column="40" selection-end-line="203" selection-end-column="40" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="152">
+          <caret line="329" column="20" selection-start-line="329" selection-start-column="20" selection-end-line="329" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAAsKunWdp59SJIjHErodZap86V3gEMLJrKYDrf5i27hUg1bBPnZ2Q5DbOGGeRVYvxITVJecmPIpHeZoCRvJbBKqEOOEmbyky559Gn3ft0b7lFujM7PgIReK2xDOIMUJKBi0KNIjQgYNUkbn7QVYE46hRQw+63x9T4v7+FAfs/iMCGB9OEbXp/Hap+5QRuH7oTbzhOpuFH6LbwMerSZx8HVnJPjX92E4a9SKI7s+b/KkjIfxu7MmrDBE8AxNzc2q8J14g==</data>
+    <data>AAAAsNTQq8a/bcSPv8uWknIBQwCOKi46AVoRK9sw2AMhCoNntO5MURmCKrw+O9YA5pezv0dnY0TwkGsvkNR73U3dPgQOvT8qCGzh0rmT2d8+N1ezmIMTisBFajFyMKbOyLKDtcUMZStqyeddXYLXNYGxok2R4qCTn6b/JE29KGmRnMMomY+Frjl4XSVU8PuKWx80zEPjMpGKVLqdjWtaeos0kmi1N6xNz/E0ayaVBkX54GcTzt9azzEbCM370nLA23Etpw==</data>
   </component>
 </project>

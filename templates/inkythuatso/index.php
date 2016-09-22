@@ -45,38 +45,9 @@ $menu_list = JKentlib::getMainMenu(8);
 </head>
 <body cz-shortcut-listen="true">
 
-    <div class="container-fluid box_shadow margin_bottom_30">
+    <div class="container-fluid box_shadow margin_bottom_8">
         <header id="HeaderPage" title="">
             <div class="header row">
-                <div class="header_1">
-                    <div class="mainwidth container">
-                        <ul class="col-lg-12 col-md-12 col-xs-12">
-                            <li class="col-lg-6">
-                                <img alt="bayhien@gmail.com"
-                                     src="images/mail.png"
-                                     title="bayhien@gmail.com">bayhien@gmail.com
-                            </li>
-
-                            <li class="col-lg-6">
-                                <img alt="(08) 38 494 818 - Hotline: 0902417738 - 0937723477"
-                                     src="images/phone.png"
-                                     title="(08) 38 494 818 - Hotline: 0902417738 - 0937723477">(08) 38 494 818 - Hotline: 0902417738 - 0937723477
-                            </li>
-
-                        </ul>
-                        <div class="link_seo">
-                            <ul>
-                                <li><a href="javascript:void(0);" target="_blank">
-                                        <img alt="Facebook" src="images/facebook.png"
-                                             title="Facebook"></a></li>
-
-                                <li><a href="javascript:void(0);" target="_blank">
-                                        <img alt="Sky" src="images/skype.png"
-                                             title="Sky"></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
                 <div class="header_2">
                     <div class="mainwidth container">
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -166,9 +137,7 @@ $menu_list = JKentlib::getMainMenu(8);
             <div>
                 <i class="fa fa-map-marker"></i>
                 <p><?php echo $contact->address;?></p>
-            </div>
 
-            <div>
                 <i class="fa fa-phone"></i>
                 <p><?php echo $contact->telephone;?></p>
             </div>
@@ -179,24 +148,7 @@ $menu_list = JKentlib::getMainMenu(8);
             </div>
 
         </div>
-
-        <div class="footer-right">
-
-            <p class="footer-company-about">
-                <span>Về chúng tôi</span>
-               <?php echo $contact->misc; ?>
-            </p>
-
-            <div class="footer-icons">
-
-                <a href="#"><i class="fa fa-facebook"></i></a>
-                <a href="#"><i class="fa fa-twitter"></i></a>
-                <a href="#"><i class="fa fa-linkedin"></i></a>
-                <a href="#"><i class="fa fa-github"></i></a>
-
-            </div>
-
-        </div>
+        <div style="clear: both;"?></div>
         <script type="text/javascript">
             jQuery(document).ready(function($){
                 // browser window scroll (in pixels) after which the "back to top" link is shown

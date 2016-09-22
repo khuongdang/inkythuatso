@@ -138,4 +138,14 @@ final class JKentlib {
     {
         return (bool) strpos($_SERVER['HTTP_USER_AGENT'],'iPad');
     }
+
+    public static function getImageSliderHomepage($catid)
+    {
+        if (isset($catid) && !empty($catid)) {
+            $db = JFactory::getDbo();
+            $query = "SELECT * FROM #__phocagallery WHERE catid = $catid and published = 1";
+            $db->setQuery($query);
+            return $db->loadObjectList();
+        }
+    }
 }

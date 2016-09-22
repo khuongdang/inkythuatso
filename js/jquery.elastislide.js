@@ -88,6 +88,7 @@
 							// when we resize the window, this will make sure minItems are always shown
 							// (unless of course minItems is higher than the total number of elements)
 		current		: 0,	// index of the current item
+		autoplay	: true,
 							// when we resize the window, the carousel will make sure this item is visible
 		onClick		: function() { return false; } // click item callback
     };
@@ -221,6 +222,34 @@
 		_initEvents			: function() {
 
 			var instance	= this;
+
+			if(this.options.autoplay == true){
+				var translation = 0;
+				// width/height of an item ( <li> )
+				var itemSpace = this.options.orientation === 'horizontal' ? this.$items.outerWidth( true ) : this.$items.outerHeight( true );
+				// total width/height of the <ul>
+				var totalSpace = this.itemsCount * itemSpace;
+				// visible width/height
+				var visibleSpace = this.options.orientation === 'horizontal' ? this.$esCarousel.width() : this.$esCarousel.height();
+				//slide auto
+				window.setInterval(function(){
+					//test if we should go to next slide or return to first slide
+					if(totalSpace > translation + visibleSpace)
+					{
+						//go to next slide
+						instance._slide('right');
+						//update translation
+						translation += visibleSpace;
+					}
+					else
+					{
+						//return to first slide
+						instance._slideTo(0);
+						//set translation to 0
+						translation = 0;
+					}
+				}, 7000);
+			}
 
 			// window resize
 			$(window).bind('resize.elastislide', function( event ) {

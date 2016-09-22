@@ -10,14 +10,16 @@ $category_info = JKentlib::getCategoryInfo($cat_id);
     <div class="es-carousel col-lg-12">
         <ul class="items" style="width: 4861px; margin-left: 0px;">
             <?php
-            foreach ($list as $obj) {
+            foreach ($list as $index=>$obj) {
                 $image = json_decode($obj->images)->image_intro;
                 ?>
                 <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-right: 16px; width: 215px;">
                     <a href="javascript:void(0);" class="link" style="border-width: 0px;" title="IN BĂNG RÔN, BANNER">
                         <figure class="p3">
                             <span class="img-box" style="background-image: url(<?php echo JUri::base() . $image; ?>)"></span>
+                            <div class="title_carousel">
                             <h2 class="name"><?php echo $obj->title;?></h2>
+                            </div>
                         </figure>
                     </a>
                 </li>
@@ -26,6 +28,10 @@ $category_info = JKentlib::getCategoryInfo($cat_id);
     </div>
 </div>
 <script>
+    var autoplay = false;
+    <?php if($index == 0) { ?>
+    var autoplay = true;
+    <?php } ?>
     $(function () {
         $('#carousel-<?php echo $cat_id?>').elastislide({
             imageW: 215,
